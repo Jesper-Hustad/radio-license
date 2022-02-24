@@ -1,9 +1,6 @@
 import * as React from "react"
-import Question from "../templates/question"
+import Home from "../templates/home"
 
-import questions from "../../exams/questions.json"
-
-import { useState } from 'react';
 
 // styles
 const pageStyles = {
@@ -12,19 +9,14 @@ const pageStyles = {
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
 }
 
-// data
-const links = [
-  questions[0], questions[1], questions[2]
-]
 
 // markup
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <title>RadioLisens</title>
-      
-      <Question questions={links}/>
-      
+
+      <Home></Home>
     </main>
 
   )
