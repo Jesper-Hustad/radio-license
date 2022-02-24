@@ -1,0 +1,580 @@
+
+I hvilke tilfeller kan samtaler på radioamatørbånd mellom lisensierte radioamatører krypteres?
+Select one:
+
+a.
+Datakommunikasjon kan krypteres.
+
+b.
+Det er lov å kryptere kommunikasjon på VHF og UHF.
+
+c.
+Det er ikke tillatt å kryptere radioamatørtrafikk.
+
+d.
+Organisert trening til nødsamband kan krypteres når det brukes LE kallesignal.
+Feedback
+The correct answer is: Det er ikke tillatt å kryptere radioamatørtrafikk.
+Question 2
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+En dipolantenne for 80 meter er hengt opp mellom to trær ca. 20 meter over bakken. Hvordan endrer fødeimpedansen seg hvis antenna blir flyttet slik at avstanden til bakken blir mindre?
+Select one:
+
+a.
+Fødeimpedansen vil ikke endres fordi den alltid vil være lik antennekabelens karakteristiske impedans.
+
+b.
+Fødeimpedansen blir høyere
+
+c.
+Dette har ingen betydning for fødeimpedansen, men antennens resonansfrekvens vil endres.
+
+d.
+Fødeimpedansen blir lavere
+Feedback
+The correct answer is: Fødeimpedansen blir lavere
+Question 3
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hva er hovedforskjellen på et oscilloskop og en spektrumanalysator?
+Select one:
+
+a.
+Oscilloskop måler i tidsplanet og spektrumanalysatoren måler i frekvensplanet.
+
+b.
+Oscilloskop måler bølgelengden i meter og spektrumanalysatoren måler frekvensen i kHz og MHz.
+
+c.
+Oscilloskop måler effekt og spektrumanalysatoren måler spenning og strøm.
+
+d.
+Oscilloskop og spektrumanalysator er i utgangspunktet det samme, men spektrumanalysatoren har inngangstrinn på samme måte som en mottaker og er derfor egnet til å bli tilkoplet en antenne.
+Feedback
+The correct answer is: Oscilloskop måler i tidsplanet og spektrumanalysatoren måler i frekvensplanet.
+Question 4
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hva er modulasjon i radiosammenheng?
+Select one:
+
+a.
+Modulasjon er frekvensområdet til den menneskelige stemme.
+
+b.
+Modulasjon er å omforme nettspenningen til driftsspenning til transceiveren.
+
+c.
+Modulasjon er utstrålingen fra en antenne.
+
+d.
+Modulasjon vil si å overføre eller å prege LF-signalets informasjon inn i RF-signalet.
+Feedback
+The correct answer is: Modulasjon vil si å overføre eller å prege LF-signalets informasjon inn i RF-signalet.
+Question 5
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hvordan benevnes måleverdien for et magnetisk felt?
+Select one:
+
+a.
+dBW
+
+b.
+dBm
+
+c.
+Ampere/meter (A/m)
+
+d.
+Volt/meter (V/m)
+Feedback
+The correct answer is: Ampere/meter (A/m)
+Question 6
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+En Yagiantenne har 13 dB gain i forhold til en dipol. Det vil si en forsterkning på 20 ganger. Mateledningen til antennen har et tap på 3 dB. Det vil si at halve effekten tapes i mateledningen. Hva blir utstrålt effekt (ERP) når senderens utgangseffekt er 10 Watt?
+Select one:
+
+a.
+100 Watt
+
+b.
+75 Watt
+
+c.
+150 Watt
+
+d.
+50 Watt
+Feedback
+The correct answer is: 100 Watt
+Question 7
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+De forskjellige ionosfærelagene som har betydning for utbredelse av radiobølger betegnes som D-laget, E-laget, F1- og F2-laget. Hvilke av disse ionosfærelagene eksisterer om dagen?
+Select one:
+
+a.
+F1- og F2- lagene danner et felles F-lag som kun eksisterer om dagen.
+
+b.
+Kun D-laget og E-laget eksisterer om dagen.
+
+c.
+Kun D-laget eksisterer om dagen.
+
+d.
+Alle fire lagene eksisterer om dagen.
+Feedback
+The correct answer is: Alle fire lagene eksisterer om dagen.
+Question 8
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+En signalgenerator kan levere vekselspenning med følgende bølgeformer: Sinus, firkant og trekant. Alle bølgeformene leveres med 1 Volt spissverdi. Hvilken av bølgeformene har størst effektivverdi?
+
+Select one:
+
+a.
+Firkant
+
+b.
+Sinus
+
+c.
+Alle tre bølgeformene har samme effektivverdi.
+
+d.
+Trekant
+Feedback
+The correct answer is: Firkant
+Question 9
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Det brukes diverse forskjellige former for polarisasjon for radiotransmisjon. I denne oppgaven tar vi hensyn til bare vertikal og horisontal polarisasjon. Hva bestemmer polarisasjonen i et elektromagnetisk felt?
+
+Select one:
+
+a.
+Polarisasjon bestemmes med retningen på det elektromagnetiske feltet.
+
+b.
+Polarisasjon bestemmes med retningen på den elektriske feltvektoren.
+
+c.
+Polarisasjon bestemmes med utstrålingsvinkelen på den elektromagnetiske utstrålingen.
+
+d.
+Polarisasjon bestemmes med retningen på den magnetiske feltvektoren.
+Feedback
+The correct answer is: Polarisasjon bestemmes med retningen på den elektriske feltvektoren.
+Question 10
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+En yagiantenne, også kalt beam for 15 meter (21 MHz) tilføres en effekt på 700 Watt. Antennen har en forsterkning på 5 ganger i forhold til en dipol (7 dBd). Utstrålt effekt (ERP) blir derfor 3500 Watt. Er dette lovlig?
+Select one:
+
+a.
+Nei, dette er ikke lovlig. Uansett hvordan effekten måles eller beregnes så skal den begrenses til maksimalt 1000 Watt på 15 meterbåndet.
+
+b.
+Ja, dette er lovlig. Det finnes ingen begrensning for utstrålt effekt.
+
+c.
+Dette er ikke et praktisk problem. Du får aldri mer utstrålt effekt enn det du tilfører antenna.
+Feedback
+The correct answer is: Ja, dette er lovlig. Det finnes ingen begrensning for utstrålt effekt.
+Question 11
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+3 spoler kobles på følgende måte: 250 µH kobles i serie med en parallellkopling av 1,2 mH og 800 µH.Hva blir den resulterende induktiviteten i denne koblingen?
+Select one:
+
+a.
+222 µH
+
+b.
+730 µH
+
+c.
+520 µH
+
+d.
+2,22 mH
+Feedback
+The correct answer is: 730 µH
+Question 12
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hvilken av disse utstrålingsklassene(modulasjonsformene) bruker smalest båndbredde?
+Select one:
+
+a.
+FM (frekvensmodulasjon)
+
+b.
+DSB (dobbelt sidebånd)
+
+c.
+CW (telegrafi)
+
+d.
+SSB (enkelt sidebånd)
+Feedback
+The correct answer is: CW (telegrafi)
+Question 13
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Et batteri på 12 volt har en kapasitet på 15 Ah(amperetimer). Batteriet lades til maks kapasitet og deretter tilkoples det en mottaker som trekker 250 mA. Hvor lenge kan mottakeren brukes før det ikke er mer strøm igjen på batteriet? (Bruk det svaralternativet som er nærmest)
+Select one:
+
+a.
+8 timer
+
+b.
+60 timer
+
+c.
+180 timer
+
+d.
+18 timer
+Feedback
+The correct answer is: 60 timer
+Question 14
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+En parallellresonanskrets består av en kondensator og en spole. Hvordan kan resonansfrekvens økes?
+Select one:
+
+a.
+Fjerne et eller flere turn fra spolen.
+
+b.
+Vikle ny spole med flere turn.
+
+c.
+Øke induktiviteten på spolen.
+
+d.
+Bytte ut kondensatoren med en kondensator med mer kapasitet.
+Feedback
+The correct answer is: Fjerne et eller flere turn fra spolen.
+Question 15
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hvilken Q-kode bruker du for å beskrive atmosfærisk støy?
+Select one:
+
+a.
+QRT
+
+b.
+QRM
+
+c.
+QRN
+
+d.
+QTH
+Feedback
+The correct answer is: QRN
+Question 16
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Er det tillatt å bruke en hjemmebygget sender?
+Select one:
+
+a.
+Dette var vanlig tidligere, men etter innføringen av CE-merkingen av radiosendere er det ikke tillatt å bruke annet enn CE-merket utstyr.
+
+b.
+Utstyrstillatelse for radioamatørutstyr er gitt i radioamatørforskriften.
+
+c.
+NRRL har fått en egen godkjenningsordning for hjemmelaget sender. De enkelte gruppene av NRRL har oppnevnt person som foretar godkjenningen. Det er kun sendere som behøver en slik godkjenning.
+
+d.
+Det er ellers i Europa tillatt å bruke hjemmelaget sender, men ikke i Norge.
+Feedback
+The correct answer is: Utstyrstillatelse for radioamatørutstyr er gitt i radioamatørforskriften.
+Question 17
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+På mottakere/tranceivere kan RF-gain justeres. Hva er hensikten med dette.
+Select one:
+
+a.
+RF-gainet brukes for å redusere mottakerens følsomhet.
+
+b.
+RF-gainet brukes for å justere lokaloscillatorinjeksjonen.
+
+c.
+RF-gain brukes til å kalibrere S-meteret.
+
+d.
+RF-gain brukes for å forsinke signalet gjennom HF-trinnet ved digital modulasjon.
+Feedback
+The correct answer is: RF-gainet brukes for å redusere mottakerens følsomhet.
+Question 18
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hva menes med polarisasjon?
+Select one:
+
+a.
+Polarisasjon er retningen på det magnetiske feltet
+
+b.
+Polarisasjon er retningen på et radiosignal i forhold til jordas nordpol og sydpol. Begrepet brukes oftest ved langdistanseforbindelser og er i praksis det samme som utstrålingsvinkel.
+
+c.
+Polarisasjon er retningen på det elektriske feltet
+
+d.
+Polarisasjon er retningen på det elektromagnetiske feltet
+Feedback
+The correct answer is: Polarisasjon er retningen på det elektriske feltet
+Question 19
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+I hvilket av disse trinnene i en superhetrodyn mottaker oppnås normalt selektiviteten?
+Select one:
+
+a.
+Lokaloscillatoren
+
+b.
+Lavfrekvenstrinnet
+
+c.
+Mellomfrekvenstrinnet
+
+d.
+Blandetrinnet
+Feedback
+The correct answer is: Mellomfrekvenstrinnet
+Question 20
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hva betyr RST?
+Select one:
+
+a.
+RST brukes for å nummerere QSOene i en konkurranse, såkalt Contest. I konkurranser hvor det ikke utveksles serienummer settes RST til nummer 59 eller 599.
+
+b.
+RST-lokator ble brukt tidligere for å beskrive hvor stasjonen befinner seg. I dag brukes Q-koden, QTH.
+
+c.
+RST betyr ”Request silent transmitter” og brukes for å fortelle motstasjonen at du blir forstyrret av hans/hennes signaler. Det er et forsøk på å få den andre stasjonen til å flytte seg i frekvens.
+
+d.
+RST betyr lesbarhet, signalstyrke og tone. Dette brukes for å gi motstasjonen en informasjon om signalstyrke og hvordan signalet oppfattes.
+Feedback
+The correct answer is: RST betyr lesbarhet, signalstyrke og tone. Dette brukes for å gi motstasjonen en informasjon om signalstyrke og hvordan signalet oppfattes.
+Question 21
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hva er det som beskrives som MUF?
+Select one:
+
+a.
+MUF er den laveste frekvensen som vil gi refleksjon fra ionosfæren.
+
+b.
+MUF er den høyeste frekvensen som vil gi refleksjon fra ionosfæren.
+
+c.
+MUF er den laveste frekvensen som gir ionosfærerefleksjon på dagtid.
+
+d.
+MUF er den mest ideelle frekvensen som gir DX-forbindelse uansett dag eller natt.
+Feedback
+The correct answer is: MUF er den høyeste frekvensen som vil gi refleksjon fra ionosfæren.
+Question 22
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+I radioreglementet er verden delt inn i regioner. I hvilken region finner vi Norge?
+Select one:
+
+a.
+Region 1
+
+b.
+Region 2
+
+c.
+Region 3
+
+d.
+Region 4
+Feedback
+The correct answer is: Region 1
+Question 23
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hvilke landområder kan du sende fra som lisensiert radioamatør?
+Select one:
+
+a.
+I hele Norge, norske landområder i Arktis og Antarktis samt land som anerkjenner en norsk radioamatørlisens.
+
+b.
+Hvor som helst i hele verden.
+
+c.
+Kun i Norge. Bruk andre steder må godkjennes i hvert enkelt tilfelle.
+
+d.
+Kun på din hjemmeadresse og i egen bil.
+Feedback
+The correct answer is: I hele Norge, norske landområder i Arktis og Antarktis samt land som anerkjenner en norsk radioamatørlisens.
+Question 24
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+En halvbølge dipolantenne for 80 meterbåndet skal henges opp mellom to trær hjemme hos en radioamatør. Antennen skal mates med en coaxkabel med karakteristisk impedans på 50 ohm. Mellom kabel og antenne skal det tilkobles en balun. Senderen som brukes er en tradisjonell radioamatør-transceiver som er beregnet til å levere effekten i en 50 ohms belastning med coax-plugg for tilkobling til antennekabelen. Hva skal omsetningsforholdet i balunen være for å unngå bruk av antennetuner?
+Select one:
+
+a.
+1:3
+
+b.
+1:2
+
+c.
+1:1
+
+d.
+2:1
+Feedback
+The correct answer is: 1:1
+Question 25
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hva er selektivitet?
+Select one:
+
+a.
+Selektivitet er mottakerens evne til å skille ut ønskede signaler.
+
+b.
+Selektivitet brukes for å få mottaker og sender til å operere på samme frekvens.
+
+c.
+Selektivitet var viktigere i tidligere tider når mottakerne var utstyrt med radiorør. Det betegnet rørets oppvarmingstid.
+
+d.
+Selektivitet er mottakerens evne til å motta svake signaler.
+Feedback
+The correct answer is: Selektivitet er mottakerens evne til å skille ut ønskede signaler.
+Question 26
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hva er vanligvis årsaken til at en amatørstasjon forstyrrer et stereoanlegg?
+Select one:
+
+a.
+Det vil i praksis ikke skje hvis stereoanlegget er laget etter anerkjente spesifikasjoner.
+
+b.
+Amatørsenderen har ustabil senderfrekvens.
+
+c.
+Det skjer en utilsiktet deteksjon av senderens signal i stereoanlegget.
+
+d.
+Amatørsenderen sender på feil frekvens.
+Feedback
+The correct answer is: Det skjer en utilsiktet deteksjon av senderens signal i stereoanlegget.
+Question 27
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Noen amatør-transceivere er utstyrt med antennetuner som innstilles automatisk ved å trykke på en knapp på senderen. Hvorfor er det viktig å velge en ledig frekvens når du skal stille inn antennetuneren; det vil si når du skal tune?
+Select one:
+
+a.
+Dette var viktig før når radiorørene i senderne skulle varmes opp. Det har ingen hensikt å ta hensyn til dette i dag med dagens transistoriserte sendere.
+
+b.
+Når tuneren skal innstilles så vil senderen gå i senderstilling. Dette utsignalet vil sannsynligvis forstyrre de stasjonene som lytter på den frekvensen du velger.
+
+c.
+Antennetuneren vil ta hensyn til de signalene som allerede er på den frekvensen du velger. Derfor får du feil innstilling hvis du tuner på en allerede opptatt frekvens.
+Feedback
+The correct answer is: Når tuneren skal innstilles så vil senderen gå i senderstilling. Dette utsignalet vil sannsynligvis forstyrre de stasjonene som lytter på den frekvensen du velger.
+Question 28
+Not answered
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Hva må du gjøre før du bruker din amatørstasjon i bil?
+Select one:
+
+a.
+Søke om et nytt kallesignal som du kun kan bruke når de sender fra bilen
+
+b.
+Det eneste som er nødvendig for å bruke radioamatørstasjonen i bil er at du er lisensiert radioamatør
+
+c.
+Melde fra til NRRL, slik at andre kan få informasjon om at du er mobil
+
+d.
+Melde fra, på eget skjema eller på internett, til PT om bilens registreringsnummer
+Feedback
+The correct answer is: Det eneste som er nødvendig for å bruke radioamatørstasjonen i bil er at du er lisensiert radioamatør

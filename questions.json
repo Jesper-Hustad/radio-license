@@ -1,0 +1,1007 @@
+[
+  {
+    "question": "Vi sammenlikner to ladbare batterier som begge har en EMF på12 Volt. Batteriet som vi betegner ”A” belastes med en motstand på 5 ohm.Spenningen på dette batteriet synker da til 11 Volt. Vi gjør det samme med det andre batteriet som vi betegner ”B”. Spenningen på dette batteriet synker til10 Volt. Kan vi ut fra disse målingene si noe om batterienes indremotstand og i så fall hvilket batteri har størst indremotstand?",
+    "answers": [
+      "Ja vi kan si noe om batterienes indremotstand og det er batteri ”A” som har størst indremotstand.",
+      "Ja vi kan si noe om batterienes indremotstand og det er batteri ”B” som har størst indremotstand.",
+      "Nei ut fra dette kan vi ikke si noe om batterienes indremotstand. Batterier har ikke indremotstand. Det er kun elektroniske strømforsyninger som har indremotstand.",
+      "Nei, dette forteller ingen ting om indremotstand. Den kan kun måles når batteriet lades."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Radioamatørgruppens 70cm repeater blir forstyrret. Repeaterens duplexavstand er 2 MHz. I nærheten av repeateren finnes det to VHF-sendere. Disse senderne har utfrekvens på henholdsvis 156 MHz og 158 MHz. Både repeaterens sender og de to andre senderene må være i senderstilling for at det skal bli støy på repeaterens mottaker. Hva er den sannsynlige årsaken til dette?",
+    "answers": [
+      "Intermodulasjon",
+      "Overmodulasjon",
+      "Undermodulasjon",
+      "For dårlig speilfrekvensdenping i repeaterens mottaker."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hva er sammenhengen mellom periodetid og frekvens?",
+    "answers": [
+      "Frekvens og periodetid har ingen sammenheng.",
+      "Høyere frekvens gir kortere periodetid.",
+      "Frekvensen er halvparten av periodetiden.",
+      "Frekvensen er det dobbelte av periodetiden."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Hva skjer når en kondensator påtrykkes en høyere frekvens?",
+    "answers": [
+      "Kapasiteten øker.",
+      "Reaktansen minker.",
+      "Reaktansen øker.",
+      "Kapasiteten minker."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Blokkskjemaet til en superheterodyn mottaker består blant annet av HF-trinn, blander eller mikser,oscillator og detektor. På hvilket sted i mottakeren bestemmes mottakerens evne til å undertrykke speilfrekvensen?",
+    "answers": [
+      "Blanderen eller mikseren",
+      "Detektoren",
+      "Oscillatoren",
+      "HF-trinnet"
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Hvem kan med din tillatelse bruke din faste amatørstasjon når du ikke er hjemme?",
+    "answers": [
+      "Din nærmeste familie kan bruke amatørstasjonen for å kommunisere med deg når du bruker /M etter ditt kallesignal som betegner at du er mobil.",
+      "Den som skal bruke amatørstasjonen må være lisensiert radioamatør.",
+      "For å holde kontakt med deg kan din nærmeste familie bruke amatørstasjonen for å holde kontakt med deg.",
+      "Din nærmeste familie kan bruke amatørstasjonen for å kommunisere med andre radioamatører."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Lisensierte radioamatører får tildelt et kallesignal. Hva er hensikten med dette kallesignalet og hvordan skal dette kallesignalet benyttes?",
+    "answers": [
+      "Kallesignalet er Post- og teletilsynets interne kundenummer. Det har ingen praktisk betydning for deg som lisensiert radioamatør.",
+      "Kallesignalet trykkes på lisenskortet som du får av Post- og teletilsynet når du har bestått prøven. Dette kortet må vises fram for å få kjøpt radioamatørutstyr.",
+      "Kallesignalet skal sendes ved begynnelse og slutt av hver radioforbindelse og ved passende intervaller under en radioforbindelse.",
+      "Kallesignalet brukes i dag kun ved automatiske stasjoner som for eksempel relestasjoner eller repeatere på VHF og UHF. Kallesignalet brukes for å aktivere relestasjonen."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "I en transistorkobling er innsignalet koblet til basis, og utgangen er tilkoblet emitter. I tillegg består koblingen av diverse motstander og kondensatorer. Hvilke egenskaper kjennetegner en slik kobling?",
+    "answers": [
+      "Koplingen kalles en felles emitterkopling og har liten strømforsterkning og stor spenningsforsterkning.",
+      "Koplingen kalles en felles kollektorkopling og har liten spenningsforsterkning og stor strømforsterkning.",
+      "Koplingen er en oscillator og frekvensen bestemmes av kombinasjonen av kondensatorene.",
+      "Koplingen kalles en felles basiskoppling og har stor spenningsforsterkning og stor strømforsterkning."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Hvordan er forholdet mellom mottatt bakgrunnsstøy og filterbåndbredden i en mottakers mellomfrekvensforsterker?",
+    "answers": [
+      "Bakgrunnsstøyen øker med økende båndbredde.",
+      "Bakgrunnsstøyen er minst midt i passbåndet.",
+      "Bakgrunnsstøyen er konstant uansett båndbredde.",
+      "Bakgrunnsstøyen minker med økende båndbredde."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hvordan benevnes elektrisk motstand?",
+    "answers": ["Watt", "Ampere", "Ohm", "Volt"],
+    "solution": 2
+  },
+  {
+    "question": "De fleste radioamatørtransceivere er utstyrt med enten digitale eller analoge MF-filtere i mottakeren. Du lytter på et svakt telegrafisignal med et filter som har 2,4kHz båndbredde. Signalet er ikke forstyrret verken av QRM eller QRN. Det viser seg at signalet får bedre lesbarhet ved å redusere filterbåndbredden til 400Hz. Hva er årsaken til dette?",
+    "answers": [
+      "Reduksjon av filterbåndbredden gir bedre frekvensstabilitet på lokaloscillatoren. Bedre stabilitet på lokaloscillatoren gir bedre lesbarhet av telegrafisignaler.",
+      "Redusering av filterbåndbredde resulterer samtidig i økt forsterkning i MF-trinnet. Signalet blir derfor oppfattet som sterkere.",
+      "Såkalt nøkkelklikk på telegrafi vil gi sidebåndsstøy på signalet. Reduksjon av filterbåndbredden vil fjerne denne støyen fra passbåndet og vil gi bedre lesbarhet.",
+      "Ved å redusere filterbåndbredden reduseres også den støyen som mottakeren mottar. Forholdet mellom signal og støy blir derfor bedre."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Hvordan kan elektrisk energi benevnes ?",
+    "answers": [
+      "Watt eller W",
+      "Kilovoltampere eller kVA",
+      "Amperetimer eller Ah",
+      "Watt-timer eller Wh"
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Hva er vanlig benevnelse for elektrisk feltstyrke?",
+    "answers": ["Volt/meter (V/m)", "dBW", "Ampere/meter (A/m)", "dBm"],
+    "solution": 0
+  },
+  {
+    "question": "En transistor (bipolar) har tre tilkoblinger. Hva kalles disse ?",
+    "answers": [
+      "Emitter, kollektor og anode",
+      "Kollektor, basis og emitter",
+      "Basis diode og katode",
+      "Basis, katode og emitter"
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Primærsiden av en transformator blir tilkoblet lysnettet med en spenning på 230 Volt AC. Sekundærsiden av transformatoren er tilkoblet en ukjent motstand. Spenningen på sekundærsiden og dermed over motstanden er 46 Volt. Strømmen igjennom motstanden er 1 Ampere.Hvor stor strøm går det på primærsiden av transformatoren?",
+    "answers": ["2,4 Ampere", "1,2 Ampere", "1,0 Ampere", "0,2 Ampere"],
+    "solution": 3
+  },
+  {
+    "question": "I radioutstyr brukes det flere forskjellige typer oscillatorer. Hva er den viktigste årsaken til at en oscillator oscillerer?",
+    "answers": [
+      "Tilbakekopling (Feedback)",
+      "AFC (Frekvenskontroll)",
+      "AGC (Forsterkningskontroll)",
+      "Foldback"
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hva slags komponent leder strøm når den forspennes i sperreretning og spenningen over den viser seg å være lik den spenningen som står utenpå komponenten?",
+    "answers": [
+      "En kapasitansdiode",
+      "En triac",
+      "En lysdiode",
+      "En zenerdiode"
+    ],
+    "solution": 3
+  },
+  {
+    "question": "En parallellresonanskrets bestående av en kondensator og en spole kan brukes som et båndpassfilter. Hva bestemmer frekvensen på et slikt filter?",
+    "answers": [
+      "Både kondensatorens kapasitet og spolens induktivitet er avgjørende for resonansfrekvensen.",
+      "På lave frekvenser bestemmes frekvensen av spolens induktivitet, og på høye frekvenser bestemmes frekvensen av kondensatorens kapasitet.",
+      "Kun kondensatorens kapasitet. Spolens induktivitet har ingen innvirkning på resonansfrekvensen.",
+      "Kun spolens induktivitet. Kondensatorens kapasitet har ingen innvirkning på resonansfrekvensen."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hva er forskjellen mellom en enkel og en dobbel superheterodyn mottaker?",
+    "answers": [
+      "Enkel superheterodyne mottaker er det samme som de gamle krystallapparatene. I dag brukes kun dobbel superheterodyn mottakere.",
+      "Enkel superheterodyne mottaker har kun en mellomfrekvensforsterker. Dobbel superheterodyne mottaker har to eller flere mellomfrekvensforsterkere.",
+      "Dobbel superheterodyne mottaker har flere blandetrinn for å lage lokaloscillatorsignalet",
+      "Dobbel superheterodyne mottaker har to HF inngangstrinn for hurtig å kunne skifte mellom flere frekvenser."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Finnes det krav til uønsket utstråling utenfor amatørbåndene for bruk av hjemmebygd radioamatørutstyr?",
+    "answers": [
+      "Kravene til uønsket utstråling fra hjemmebygde sendere er gitt i IARU sine båndplaner.",
+      "Kravene til uønsket utstråling fra hjemmebygde sendere er gitt i ”Forskrift om radioamatørlisens”.",
+      "Det er ikke lenger lov å bygge egen sender, og derfor finnes det ikke lenger slike krav.",
+      "Slike krav har i praksis ingen betydning fordi sendereffektene som radioamatørene bruker er lav."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Hva blir stående-bølgeforhold (VSWR eller SWR) på mateledningen dersom du benytter en coaxkabel med karakteristisk impedans på 50 ohm og antennen har en fødeimpedans på 20 ohm?",
+    "answers": [
+      "2,5 eller 1:2,5",
+      "1,4 eller 1:1,4",
+      "0,4 eller 1:0,4",
+      "1,0 eller 1:1"
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Har du lov til å sende når frekvensinnstillingen på transceiveren er 1 kHz lavere enn øvre båndgrense på 80 meterbåndet? Vi forutsetter at du bruker telefoni, båndbredde ca 2,4 kHz og LSB. Frekvensinnstillingen viser frekvensen til den undertrykte bærebølgen .",
+    "answers": [
+      "Uansett om du bruker LSB eller USB så vil senderens frekvensavlesning være midt i passbåndet. Deler av passbåndet vil i dette tilfelle falle utenfor båndgrensen og en slik sending er derfor ulovlig.",
+      "I og med at du bruker LSB så vil passbåndet til senderen komme innenfor båndgrensen. Det er tillat å sende.",
+      "Det er kun tillatt å sende på denne delen av 80 meterbåndet hvis motstasjonen befinner seg utenfor Europa. Denne delen av båndet er avsatt til langdistansekontakter.",
+      "Question 23"
+    ],
+    "solution": 1
+  },
+  {
+    "question": "En nettransformator har en primærvikling som tilkoples 220Volt vekselstrøm. Den har to sekundærviklinger. Den ene sekundærviklingen er merket 24 Volt og den andre er merket 18 Volt. Du har beregnet at ved å kople begge viklingene i serie vil du kunne få en spenning på 42 Volt over begge viklingene. Det viser seg at det kun er 6 Volt over viklingene. Kan du ha beregnet feil eller har du muligens koplet feil? Hva er sannsynligvis feil?",
+    "answers": [
+      "Du har koplet riktig og spenningen blir 42 Volt. Det er sannsynligvis feil på måleinstrumentet.",
+      "Det er forskjellig tverrsnitt på koppertrådene som er brukt i de to sekundærviklingene. Derfor blir det ikke riktig å summere de to spenningene.",
+      "Du har koplet viklingene i motfase slik at du ikke får summen men differansen av spenningene av de to sekundærviklingene.",
+      "Du har gjort en beregningsfeil. Det er ikke mulig å få summen av spenningene ved å kople sammen to transformatorviklinger i serie."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hva kjennetegner en sender med et utgangstrinn i klasse C?",
+    "answers": [
+      "En klasse C forsterker er ulineær og kan ikke brukes til FM.",
+      "En forsterker i klasse C er ulineær og kan ikke brukes til telegrafi.",
+      "En klasse C forsterker er ulineær og kan brukes både til SSB og FM.",
+      "En klasse C forsterker kan ikke brukes for radiofrekvenser. I radioamatørutstyr brukes slike forsterkertrinn kun i lavfrekvenstrinnene i mottakere."
+    ],
+    "solution": -1
+  },
+  {
+    "question": "Ved hvilken frekvens vil en kvartbølge antenne med lengde 66 cm ha sin resonansfrekvens? Korreksjonsfaktoren k settes til 0,95. (Bruk svaralternativet som er nærmest det du mener er riktig)",
+    "answers": ["145 MHz", "432 MHz", "51 MHz", "108 MHz"],
+    "solution": 3
+  },
+  {
+    "question": "En parallellkobling av en motstand og en ukjent komponent tilkobles 10 Volt DC. I motstanden går det 0,1 Ampere uansett om vi endrer strømretningen. I hele kretsen omsettes det en effekt på 1Watt. Hva forteller dette om den ukjente komponenten?",
+    "answers": [
+      ") I den ukjente komponenten ser det ikke ut til å gå noen strøm. Den ukjente komponenten kan være defekt, eller det kan være en kondensator.",
+      ") I den ukjente komponenten går det 0,2 Ampere. Den ukjente komponenten kan derfor være en motstand.",
+      "I motstanden går det halvparten så stor strøm som i den ukjente komponenten. Den ukjente komponenten kan derfor være en spole.",
+      ") I motstanden går det dobbelt så stor strøm som i den ukjente komponenten. Den ukjente komponenten kan derfor være en diode."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hvilken elektrisk egenskap er den viktigste ved en spole?",
+    "answers": ["Aktiv", "Resistiv", "Induktiv", "Kapasitiv"],
+    "solution": 2
+  },
+  {
+    "question": "Hva er et notch filter?",
+    "answers": [
+      "Notch-filter brukes på telegrafi for å fjerne nøkkelklikk.",
+      "Notch-filter brukes i mottakeren for å fjerne et smalt frekvensområde i passbåndet. Det kan i praksis brukes til å fjerne forstyrrende pipetoner.",
+      "Notch filter er navnet på tilpassningsleddet mellom siste transistor i senderen og antennetilkoplingen. På en sender med radiorør kalles dette tilpassningsleddet for PI-filter.",
+      "Notch-filter brukes på sendere for å tilpasse talebåndet til den båndbredden som senderen bruker."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "I hvilke tilfeller kan samtaler på radioamatørbånd mellom lisensierte radioamatører krypteres?",
+    "answers": [
+      "Datakommunikasjon kan krypteres.",
+      "Det er lov å kryptere kommunikasjon på VHF og UHF.",
+      "Det er ikke tillatt å kryptere radioamatørtrafikk.",
+      "Organisert trening til nødsamband kan krypteres når det brukes LE kallesignal."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "En dipolantenne for 80 meter er hengt opp mellom to trær ca. 20 meter over bakken. Hvordan endrer fødeimpedansen seg hvis antenna blir flyttet slik at avstanden til bakken blir mindre?",
+    "answers": [
+      "Fødeimpedansen vil ikke endres fordi den alltid vil være lik antennekabelens karakteristiske impedans.",
+      "Fødeimpedansen blir høyere",
+      "Dette har ingen betydning for fødeimpedansen, men antennens resonansfrekvens vil endres.",
+      "Fødeimpedansen blir lavere"
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Hva er hovedforskjellen på et oscilloskop og en spektrumanalysator?",
+    "answers": [
+      "Oscilloskop måler i tidsplanet og spektrumanalysatoren måler i frekvensplanet.",
+      "Oscilloskop måler bølgelengden i meter og spektrumanalysatoren måler frekvensen i kHz og MHz.",
+      "Oscilloskop måler effekt og spektrumanalysatoren måler spenning og strøm.",
+      "Oscilloskop og spektrumanalysator er i utgangspunktet det samme, men spektrumanalysatoren har inngangstrinn på samme måte som en mottaker og er derfor egnet til å bli tilkoplet en antenne."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hva er modulasjon i radiosammenheng?",
+    "answers": [
+      "Modulasjon er frekvensområdet til den menneskelige stemme.",
+      "Modulasjon er å omforme nettspenningen til driftsspenning til transceiveren.",
+      "Modulasjon er utstrålingen fra en antenne.",
+      "Modulasjon vil si å overføre eller å prege LF-signalets informasjon inn i RF-signalet."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Hvordan benevnes måleverdien for et magnetisk felt?",
+    "answers": ["dBW", "dBm", "Ampere/meter (A/m)", "Volt/meter (V/m)"],
+    "solution": 2
+  },
+  {
+    "question": "En Yagiantenne har 13 dB gain i forhold til en dipol. Det vil si en forsterkning på 20 ganger. Mateledningen til antennen har et tap på 3 dB. Det vil si at halve effekten tapes i mateledningen. Hva blir utstrålt effekt (ERP) når senderens utgangseffekt er 10 Watt?",
+    "answers": ["100 Watt", "75 Watt", "150 Watt", "50 Watt"],
+    "solution": 0
+  },
+  {
+    "question": "De forskjellige ionosfærelagene som har betydning for utbredelse av radiobølger betegnes som D-laget, E-laget, F1- og F2-laget. Hvilke av disse ionosfærelagene eksisterer om dagen?",
+    "answers": [
+      "F1- og F2- lagene danner et felles F-lag som kun eksisterer om dagen.",
+      "Kun D-laget og E-laget eksisterer om dagen.",
+      "Kun D-laget eksisterer om dagen.",
+      "Alle fire lagene eksisterer om dagen."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "En signalgenerator kan levere vekselspenning med følgende bølgeformer: Sinus, firkant og trekant. Alle bølgeformene leveres med 1 Volt spissverdi. Hvilken av bølgeformene har størst effektivverdi?",
+    "answers": [
+      "Firkant",
+      "Sinus",
+      "Alle tre bølgeformene har samme effektivverdi.",
+      "Trekant"
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Det brukes diverse forskjellige former for polarisasjon for radiotransmisjon. I denne oppgaven tar vi hensyn til bare vertikal og horisontal polarisasjon. Hva bestemmer polarisasjonen i et elektromagnetisk felt?",
+    "answers": [
+      "Polarisasjon bestemmes med retningen på det elektromagnetiske feltet.",
+      "Polarisasjon bestemmes med retningen på den elektriske feltvektoren.",
+      "Polarisasjon bestemmes med utstrålingsvinkelen på den elektromagnetiske utstrålingen.",
+      "Polarisasjon bestemmes med retningen på den magnetiske feltvektoren."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "En yagiantenne, også kalt beam for 15 meter (21 MHz) tilføres en effekt på 700 Watt. Antennen har en forsterkning på 5 ganger i forhold til en dipol (7 dBd). Utstrålt effekt (ERP) blir derfor 3500 Watt. Er dette lovlig?",
+    "answers": [
+      "Nei, dette er ikke lovlig. Uansett hvordan effekten måles eller beregnes så skal den begrenses til maksimalt 1000 Watt på 15 meterbåndet.",
+      "Ja, dette er lovlig. Det finnes ingen begrensning for utstrålt effekt.",
+      "Dette er ikke et praktisk problem. Du får aldri mer utstrålt effekt enn det du tilfører antenna.",
+      "Question 11"
+    ],
+    "solution": 1
+  },
+  {
+    "question": "3 spoler kobles på følgende måte: 250 µH kobles i serie med en parallellkopling av 1,2 mH og 800 µH.Hva blir den resulterende induktiviteten i denne koblingen?",
+    "answers": ["222 µH", "730 µH", "520 µH", "2,22 mH"],
+    "solution": 1
+  },
+  {
+    "question": "Hvilken av disse utstrålingsklassene(modulasjonsformene) bruker smalest båndbredde?",
+    "answers": [
+      "FM (frekvensmodulasjon)",
+      "DSB (dobbelt sidebånd)",
+      "CW (telegrafi)",
+      "SSB (enkelt sidebånd)"
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Et batteri på 12 volt har en kapasitet på 15 Ah(amperetimer). Batteriet lades til maks kapasitet og deretter tilkoples det en mottaker som trekker 250 mA. Hvor lenge kan mottakeren brukes før det ikke er mer strøm igjen på batteriet? (Bruk det svaralternativet som er nærmest)",
+    "answers": ["8 timer", "60 timer", "180 timer", "18 timer"],
+    "solution": 1
+  },
+  {
+    "question": "En parallellresonanskrets består av en kondensator og en spole. Hvordan kan resonansfrekvens økes?",
+    "answers": [
+      "Fjerne et eller flere turn fra spolen.",
+      "Vikle ny spole med flere turn.",
+      "Øke induktiviteten på spolen.",
+      "Bytte ut kondensatoren med en kondensator med mer kapasitet."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hvilken Q-kode bruker du for å beskrive atmosfærisk støy?",
+    "answers": ["QRT", "QRM", "QRN", "QTH"],
+    "solution": 2
+  },
+  {
+    "question": "Er det tillatt å bruke en hjemmebygget sender?",
+    "answers": [
+      "Dette var vanlig tidligere, men etter innføringen av CE-merkingen av radiosendere er det ikke tillatt å bruke annet enn CE-merket utstyr.",
+      "Utstyrstillatelse for radioamatørutstyr er gitt i radioamatørforskriften.",
+      "NRRL har fått en egen godkjenningsordning for hjemmelaget sender. De enkelte gruppene av NRRL har oppnevnt person som foretar godkjenningen. Det er kun sendere som behøver en slik godkjenning.",
+      "Det er ellers i Europa tillatt å bruke hjemmelaget sender, men ikke i Norge."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "På mottakere/tranceivere kan RF-gain justeres. Hva er hensikten med dette.",
+    "answers": [
+      "RF-gainet brukes for å redusere mottakerens følsomhet.",
+      "RF-gainet brukes for å justere lokaloscillatorinjeksjonen.",
+      "RF-gain brukes til å kalibrere S-meteret.",
+      "RF-gain brukes for å forsinke signalet gjennom HF-trinnet ved digital modulasjon."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hva menes med polarisasjon?",
+    "answers": [
+      "Polarisasjon er retningen på det magnetiske feltet",
+      "Polarisasjon er retningen på et radiosignal i forhold til jordas nordpol og sydpol. Begrepet brukes oftest ved langdistanseforbindelser og er i praksis det samme som utstrålingsvinkel.",
+      "Polarisasjon er retningen på det elektriske feltet",
+      "Polarisasjon er retningen på det elektromagnetiske feltet"
+    ],
+    "solution": 2
+  },
+  {
+    "question": "I hvilket av disse trinnene i en superhetrodyn mottaker oppnås normalt selektiviteten?",
+    "answers": [
+      "Lokaloscillatoren",
+      "Lavfrekvenstrinnet",
+      "Mellomfrekvenstrinnet",
+      "Blandetrinnet"
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hva betyr RST?",
+    "answers": [
+      "RST brukes for å nummerere QSOene i en konkurranse, såkalt Contest. I konkurranser hvor det ikke utveksles serienummer settes RST til nummer 59 eller 599.",
+      "RST-lokator ble brukt tidligere for å beskrive hvor stasjonen befinner seg. I dag brukes Q-koden, QTH.",
+      "RST betyr ”Request silent transmitter” og brukes for å fortelle motstasjonen at du blir forstyrret av hans/hennes signaler. Det er et forsøk på å få den andre stasjonen til å flytte seg i frekvens.",
+      "RST betyr lesbarhet, signalstyrke og tone. Dette brukes for å gi motstasjonen en informasjon om signalstyrke og hvordan signalet oppfattes."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Hva er det som beskrives som MUF?",
+    "answers": [
+      "MUF er den laveste frekvensen som vil gi refleksjon fra ionosfæren.",
+      "MUF er den høyeste frekvensen som vil gi refleksjon fra ionosfæren.",
+      "MUF er den laveste frekvensen som gir ionosfærerefleksjon på dagtid.",
+      "MUF er den mest ideelle frekvensen som gir DX-forbindelse uansett dag eller natt."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "I radioreglementet er verden delt inn i regioner. I hvilken region finner vi Norge?",
+    "answers": ["Region 1", "Region 2", "Region 3", "Region 4"],
+    "solution": 0
+  },
+  {
+    "question": "Hvilke landområder kan du sende fra som lisensiert radioamatør?",
+    "answers": [
+      "I hele Norge, norske landområder i Arktis og Antarktis samt land som anerkjenner en norsk radioamatørlisens.",
+      "Hvor som helst i hele verden.",
+      "Kun i Norge. Bruk andre steder må godkjennes i hvert enkelt tilfelle.",
+      "Kun på din hjemmeadresse og i egen bil."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "En halvbølge dipolantenne for 80 meterbåndet skal henges opp mellom to trær hjemme hos en radioamatør. Antennen skal mates med en coaxkabel med karakteristisk impedans på 50 ohm. Mellom kabel og antenne skal det tilkobles en balun. Senderen som brukes er en tradisjonell radioamatør-transceiver som er beregnet til å levere effekten i en 50 ohms belastning med coax-plugg for tilkobling til antennekabelen. Hva skal omsetningsforholdet i balunen være for å unngå bruk av antennetuner?",
+    "answers": ["1:3", "1:2", "1:1", "2:1"],
+    "solution": 2
+  },
+  {
+    "question": "Hva er selektivitet?",
+    "answers": [
+      "Selektivitet er mottakerens evne til å skille ut ønskede signaler.",
+      "Selektivitet brukes for å få mottaker og sender til å operere på samme frekvens.",
+      "Selektivitet var viktigere i tidligere tider når mottakerne var utstyrt med radiorør. Det betegnet rørets oppvarmingstid.",
+      "Selektivitet er mottakerens evne til å motta svake signaler."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hva er vanligvis årsaken til at en amatørstasjon forstyrrer et stereoanlegg?",
+    "answers": [
+      "Det vil i praksis ikke skje hvis stereoanlegget er laget etter anerkjente spesifikasjoner.",
+      "Amatørsenderen har ustabil senderfrekvens.",
+      "Det skjer en utilsiktet deteksjon av senderens signal i stereoanlegget.",
+      "Amatørsenderen sender på feil frekvens."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Noen amatør-transceivere er utstyrt med antennetuner som innstilles automatisk ved å trykke på en knapp på senderen. Hvorfor er det viktig å velge en ledig frekvens når du skal stille inn antennetuneren; det vil si når du skal tune?",
+    "answers": [
+      "Dette var viktig før når radiorørene i senderne skulle varmes opp. Det har ingen hensikt å ta hensyn til dette i dag med dagens transistoriserte sendere.",
+      "Når tuneren skal innstilles så vil senderen gå i senderstilling. Dette utsignalet vil sannsynligvis forstyrre de stasjonene som lytter på den frekvensen du velger.",
+      "Antennetuneren vil ta hensyn til de signalene som allerede er på den frekvensen du velger. Derfor får du feil innstilling hvis du tuner på en allerede opptatt frekvens.",
+      "Question 28"
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Hva må du gjøre før du bruker din amatørstasjon i bil?",
+    "answers": [
+      "Søke om et nytt kallesignal som du kun kan bruke når de sender fra bilen",
+      "Det eneste som er nødvendig for å bruke radioamatørstasjonen i bil er at du er lisensiert radioamatør",
+      "Melde fra til NRRL, slik at andre kan få informasjon om at du er mobil",
+      "Melde fra, på eget skjema eller på internett, til PT om bilens registreringsnummer"
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Hvilket eller hvilke ionosfærelag er viktigst for langdistansekontakter om natten",
+    "answers": [
+      "F-laget",
+      "D-laget og F1-laget",
+      "D-laget og F2-laget",
+      "E-laget"
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Antall solflekker eller solflekktallet varierer i en tidsperiode på ca. 11 år, med lave solflekktall i begynnelsen og i slutten av 11 årsperioden, og høye solflekktall midt i perioden. Hvordan er sammenhengen mellom MUF (Maxsimum Usable Frequency) og antall solflekker; det såkalte solflekktallet?",
+    "answers": [
+      "Det er ingen sammenheng mellom MUF og solflekktallet.",
+      "Ved høye solflekktall får vi lav MUF.",
+      "Ved høye solflekktall får vi høy MUF.",
+      "MUF er lav i begynnelsen av 11 årsperioden og høy i slutten av 11 årsperioden."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hva kalles et MF-filters forhold mellom 6 dB og 60 dB båndbredde?",
+    "answers": [
+      "Formfaktor eller Shape-factor",
+      "Steilhet",
+      "Linearitet",
+      "Dempning eller forsterkning"
+    ],
+    "solution": 0
+  },
+  {
+    "question": "En radioamatør kan etter forskriften bruke inntil 1000 Watt på de fleste HF-bånd. Hvor måles eller hvordan beregnes denne effekten?",
+    "answers": [
+      "Utstrålt effekt fra antenna, ofte benevnt som ERP (Effektiv radiated power).",
+      "Effekt som senderen trekker fra lysnettet, eller annen kraftkilde som for eksempel batteri.",
+      "Effekt som tilføres antenna fra fødeledningen.",
+      "Senderens utgangseffekt."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Hva er en variabel kondensator?",
+    "answers": [
+      "Keramiske kondensatorer og elektrolyttkondensatorer har forskjellig elektriske egenskaper. Blant annet har de keramiske kondensatorene meget gode høyfrekvensegenskaper, mens elektrolyttkondensatoren brukes mest i lavfrekvenstrinn og strømforsyninger. En variabel kondensator har begge disse kondensatortypenes gode egenskaper.",
+      "En variabel kondensator har tre tilkoplinger. Den tredje tilkoplingen koples til et instrument for å lese av frekvensen. Variabel frekvens gir endret avlesning.",
+      "En variabel kondensator er en mekanisk innretning som oftest har en bevegelig rotor og en fast stator. Både rotor og stator er forsynt med metallplater som kan beveges i forhold til hverandre.",
+      "En kondensator som endrer verdi ved endring av vekselstrømmen gjennom kondensatoren kalles en variabel kondensator."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hva er forskjellen på en enkelsuper og dobbelsuper mottaker?",
+    "answers": [
+      "Enkelsuper mottaker har kun et avstemt filter i inngangskretsen. Dobbelsuper har flere og skarpere filter i inngangskretsene som vil bedre speilfrekvensdempningen.",
+      "Dobbelsuper har to eller flere filtre i motakeren. For eksempel 400 Hz filter for CW og 2,4 kHz filter for SSB.",
+      "Enkelsuper mottaker kan kun lytte på et bølgebånd, for eksempel 80 meter. Dobbelsuper mottaker kan lytte på alle HF-båndene.",
+      "Enkelsuper mottaker har kun en mellomfrekvens. Dobbelsuper mottaker har to mellomfrekvenser."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Hva kalles en transistorkoppling hvor emitterer avkoplet med en kondensator til signalveiens referanse og inngangssignaleter tilkoplet basis?",
+    "answers": [
+      "Felles basiskopling",
+      "Felles kollektorkopling",
+      "Felles emitterkopling",
+      "Felles anodekopling"
+    ],
+    "solution": 2
+  },
+  {
+    "question": "To batterier med klemmespenning på 12 Volt seriekoples slik at spenningen over batteriene blir 24 Volt. Hvert batteri kan levere en strøm på maksimalt 4 Ampere. Hvor stor strøm kan de seriekopplede batteriene levere?",
+    "answers": [
+      "Maksimalt strømtrekk er 4 Ampere.",
+      "Maksimalt strømtrekk er 3 Ampere.",
+      "Maksimalt strømtrekk er 2 Ampere.",
+      "Maksimalt strømtrekk er 8 Ampere."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hvilken Q-kode vil du bruke for å fortelle at motstasjonens signaler blir forstyrret av andre radioamatører?",
+    "answers": ["QRO", "QRM", "QRT", "QSB"],
+    "solution": 1
+  },
+  {
+    "question": "En motstand er merket på følgende måte: ”470ohm og 0,5 Watt”. Hva betyr dette?",
+    "answers": [
+      "Effekten i motstanden er 470 ohm og impedansen er 0,5 Watt.",
+      "Resistansen i motstanden er 470 ohm og den kan maksimalt avgi 0,5 Watt.",
+      "Ved en omgivelsestemperatur på 20 grader så har motstanden en spenning på 470 ohm.",
+      "Disse verdiene tilsier at det må være en trådviklet motstand."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "En parallellkobling av en kondensator og en spole danner en resonanskrets. Kretsens resonansfrekvens er 7 MHz. Spolens induktivitet er på 10 µH (mikrohenry). Hvor stor er kondensatorens kapasitet?",
+    "answers": ["5,17 pF", "5,17 nF", "517 pF", "51,7 pF"],
+    "solution": 3
+  },
+  {
+    "question": "Hva kjennetegner en sender med en utgangsforsterker i klasse AB?",
+    "answers": [
+      "En klasse AB utgangsforsterker brukes kun på store kringkastingssendere.",
+      "En utgangsforsterker i klasse AB er ulineær og egner seg derfor kun til telegrafi.",
+      "En klasse AB utgangsforsterker er lineær og kan derfor brukes med de fleste modulasjonsformer.",
+      "En klasse AB utgangsforsterker brukes kun på 2 meter (144MHz) og høyere frekvenser."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hva slags filter vil bestå av en spole og en kondensator som kobles i parallell med signalveien?",
+    "answers": [
+      "Et høypassfilter",
+      "Et båndstoppfilter eller sperrefilter",
+      "Et lavpassfilter",
+      "Et båndpassfilter"
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Instrumentet på en moderne radioamatørstasjon viser at det går ca. 15 Ampere i senderens sluttrinn. Du ser i manualen at sluttrinnets driftspenning skal være ca. 13 Volt. Hvor stor utgangseffekt kan du forvente at senderen leverer?",
+    "answers": [
+      "Mellom 100 og 200 Watt avhengig av modulasjonstype",
+      "I overkant av 250 Watt telegrafi og ca. 800 Watt SSB",
+      "I dette tilfelle har ikke spenningen noen betydning. Uteffekten får ikke blitt større enn den tilførte strømmen som er 15 Ampere. Det vil si maksimalt 15 Watt.",
+      "Mellom 10 og 40 Watt og kun på 2 meter med FM-modulasjon"
+    ],
+    "solution": 0
+  },
+  {
+    "question": "I en transistorkobling er innsignalet koblet til basis, og utgangen er tilkoblet kollektor. I tillegg består koblingen av diverse motstander og kondensatorer. Hvilke egenskaper kjennetegner en slik kobling?",
+    "answers": [
+      "Koplingen kalles en felles emitterkopling og har liten strømforsterkning og stor spenningsforsterkning.",
+      "Koplingen kalles en felles basiskoppling og har stor spenningsforsterkning og stor strømforsterkning.",
+      "Koplingen er en FM-detektor og frekvensgangen bestemmes av kombinasjonen av kondensatorene.",
+      "Koplingen kalles en felles kollektorkopling og har liten spenningsforsterkning og stor strømforsterkning."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "En mottaker er innstilt til 14 MHz. Mellomfrekvensen er 1 MHz og lokaloscillatoten ligger over mottakerens inn-frekvens. Hva blir mottakerens speilfrekvens?",
+    "answers": ["13 MHz", "18MHz", "15MHz", "16MHz"],
+    "solution": 3
+  },
+  {
+    "question": "Hvor stor båndbredde får et SSB-signal når laveste modulasjonsfrekvens er 300 Hz og høyeste modulasjonsfrekvens er 2400 Hz. Bruk det svaret som er nærmest den båndbredden du mener er riktig.",
+    "answers": ["2,1kHz", "4,2kHz", "4,8kHz", "2,4kHz"],
+    "solution": 0
+  },
+  {
+    "question": "Hva menes med skipdistanse?",
+    "answers": [
+      "Skipdistansen er avstanden mellom der jordbølgen slutter og der første refleksjon fra ionosfæren treffer bakken. Dette kalles også dødsone.",
+      "Skipdistansen er den teoretiske lengste avstand som radiobølger kan nå ved jordbølgetransmisjon.",
+      "Skipdistansen er høyden over bakken på det reflekterende ionosfærelaget.",
+      "Skipdistansen er avstanden fra der første refleksjon fra ionosfæren treffer bakken og fram til mottakerstasjonen."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Desibel betegnes dB og brukes i elektronikken for å beskrive et forhold mellom to verdier. Vi tar utgangspunkt i forholdet mellom to effekter. Hva er riktig av følgende påstander?",
+    "answers": [
+      "200 Watt i forhold til 600 Watt er 6 dB.",
+      "10 Watt i forhold til 20 Watt er 3 dB.",
+      "300 Watt i forhold til 20 Watt er 20 dB.",
+      "100 Watt i forhold til 300 Watt er 3 dB."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "En enkel strømforsyning erspenningsstabilisert med en zenerdiode i serie med en motstand. I hvilkensituasjon blir zenerdioden varmest?",
+    "answers": [
+      "Zenerdioden brukes for å stabilisere spenningen. Det går ikke strøm i zenerdioden og den blir derfor ikke varm.",
+      "Når strømforsyningen ikke er belastet.",
+      "Varmen som zenerdioden gir fra seg er uavhengig av hvordan strømforsyningen belastes.",
+      "Når strømforsyningen belastes maksimalt."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "En kvartbølge vertikal antenne plassert på bakken har en lengde på ca. 5 meter. Antennen er koblet direkte til en coax-kabel uten noen form for tilpassning. Tilkoplingspunktet er i bunnen av antenna. Korreksjonsfaktoren k settes til 0,95. På hvilket frekvensbånd kan du regne med at antenna har et SWR(VSWR) ned mot 1, eller som noen vil si ned mot 1:1?",
+    "answers": ["14 MHz", "144 MHz", "3,5 MHz", "28 MHz"],
+    "solution": 0
+  },
+  {
+    "question": "En nettransformator har en primærvikling som tilkoples 220Volt vekselstrøm. Primærviklingen har dobbelt så mange turn som sekundærviklingen. Hvilken spenning vil vi få over sekundærviklingen når den er ubelastet?",
+    "answers": ["110 Volt", "220 Volt", "55 Volt", "440 Volt"],
+    "solution": 0
+  },
+  {
+    "question": "Hvordan vil utstrålingsvinkelen fra en horisontal dipol endres hvis antennens høyde over bakken økes?",
+    "answers": [
+      "Utstrålingsvinkelen er fast for denne antennetypen og påvirkes ikke av antennens høyde over bakken.",
+      "Utstrålingsvinkelen endres med antennehøyden, men kun ved konstant tilført effekt. Hvis effekten økes så økes også utstrålingsvinkelen.",
+      "Utstrålingsvinkelen blir mindre (lavere).",
+      "Utstrålingsvinkelen blir større (høyere)."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hvilke forholdsregler må en radioamatør ta når det brukes en frekvens nær båndgrensene?",
+    "answers": [
+      "Redusere effekten slik at senderens utgangstrinn ikke overbelastes.",
+      "Redusere effekten for å unngå at det oppstår harmonisk utstråling utenfor amatørbåndet.",
+      "Såkalte ”near edge frequencies” må ikke brukes uten at det også brukes lavpassfilter i antennekabelen.",
+      "Velge frekvens slik at sidebåndsproduktene havner innenfor båndgrensen."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "En metode for å generere et SSB-signal er blant annet ved hjelp av en ringmodulator som også kalles balansert modulator. Hvordan bestemmer vi om vi får generert et LSB- eller et USB-signal.",
+    "answers": [
+      "Ringmodulatoren består blant annet av 4 dioder. Retningen på diodene er bestemmende for om resultatet blir LSB eller USB.",
+      "Ringmodulatoren består blant annet av to sammenkoplede spoler på inngangen og to sammenkoplede spoler på utgangen. Innbyrdes vikleretning på disse spolene er bestemmende for om resultatet blir LSB eller USB.",
+      "Ringmodulatoren genererer ikke SSB, men DSB. LSB eller USB får vi ved å filtrere bort det uønskede sidebåndet.",
+      "Question 26"
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Du hører en FM-QSO på 144,0 MHz. Er dette lovlig og hva står det i regelverket om et slikt frekvensvalg?",
+    "answers": [
+      "Smalbånds FM sender kun ut det øvre sidebåndet. Dette sidebåndet vil ligge innenfor båndgrensen og sendingen er lovlig.",
+      "Det kreves ikke lenger telegrafikunnskaper for å bli lisensiert radioamatør. IARUs båndplan er endret slik at bruk av 144,0 MHz til FM-trafikk er lovlig.",
+      "FM som modulasjonsform på grensefrekvensen 144 MHz er ulovlig fordi halve signalet kommer utenfor radioamatørbåndet.",
+      "Alle FM-transceivere har innebygget AFC (Automatic Frequency controll). Denne kontrollfunksjonen flytter signalet langt nok i frekvens slik at hele FM-signalets båndbredde kommer innenfor radioamatørbåndet. Sendingen er derfor lovlig."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hvor finner du hvilke frekvensbånd som norske lisensierte radioamatører kan bruke?",
+    "answers": [
+      "NRRLs temahefte.",
+      "Forskrift om radioamatørlisens.",
+      "IARU sin båndplan.",
+      "Rundskriv som du får tilsendt ved henvendelse til Post- og teletilsynet."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Hvilke dokumenter skal du ha med deg når du bruker din radioamatørstasjon?",
+    "answers": [
+      "Det er ingen regler om dette.",
+      "Lisenskortet og båndplanen fra IARU.",
+      "Både ”Forskrift om radioamatørlisens som beskriver frekvensbåndene, og lisenskortet.",
+      "Lisenskortet som Post- og teletilsynet utsteder skal du alltid ha med når amatørstasjonen er i bruk."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Du har radioamatørlisens utstedt i Norge. Hvor finner du oversikt over frekvensbånd som du kan bruke på reise i Sverige?",
+    "answers": [
+      "Du må undersøke med svenske myndigheter hvilke frekvensbånd som er tillatt brukt i Sverige.",
+      "IARU sin båndplan som gjelder for Norge skal du som norsk radioamatør bruke i Sverige.",
+      "Frekvensbåndene merket ”Sekundær” er internasjonale og de kan du bruke i Sverige.",
+      "Med norsk lisens skal du forholde deg til frekvensbåndene i den norske forskriften ved reise i Sverige."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Mange radioamatører bruker amatørradio når de kjører bil. Hva står det i ”Forskrift om radioamatørlisens” om bruk av håndholdt mikrofon når du kjører?",
+    "answers": [
+      "Radioamatørforskriften har ingen bestemmelser om håndholdt mikrofon i bil.",
+      "Radioamatørforskriften viser til Vegtrafikkloven angående bruk av håndholdt mikrofon i bil.",
+      "Det er ikke lov å bruke amatørradio i bil når bilen er i bevegelse. Derfor er det ingen bestemmelser om håndholdt mikrofon.",
+      "I radioamatørforskriften er det en egen bestemmelse som forbyr bruk av håndholdt mikrofon i bil."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "På mottakere/tranceivere kan AF-gain justeres. Hva er hensikten med dette.",
+    "answers": [
+      "AF-gain brukes for å forsinke signalet gjennom MF-trinnet ved digital modulasjon.",
+      "AF-gain brukes til å kalibrere S-meteret.",
+      "AF-gainet er motakerens volumkontroll.",
+      "AF-gainet brukes for å justere båndbredden ved hjelp av sidebåndsfiltrene."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hva bestemmer en superheterodynmottakers passbånd?",
+    "answers": [
+      "Notch filterets båndbredde er i praksis det samme som mottakerens passbånd.",
+      "Q-verdien i lokaloscillatorens svingekrets bestemmer mottakerens passbånd.",
+      "Mellomfrekvensfilterets 6 dB båndbredde bestemmer mottakerens passbånd.",
+      "Mellomfrekvensfilterets 60 dB båndbredde bestemmer mottakerens passbånd."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hva heter den internasjonale organisasjonen som er ansvarlig for radioreglementet?",
+    "answers": [
+      "European Radiocommunication office (ERO)",
+      "European Telecommunications Standads Institute (ETSI)",
+      "European Conference of Postal and Telecommunications Administration (CEPT)",
+      "International Telecommunication Union (ITU)"
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Ved en senderantenne vil det dannes et elektrisk felt, et magnetisk felt og et elektromagnetisk felt. Hvilket av disse feltene bærer signalet fram til mottakerstasjonen?",
+    "answers": [
+      "Det elektriske feltet",
+      "Det elektromagnetiske feltet",
+      "Det magnetiske feltet",
+      "Ingen av disse feltene har betydning for en radioforbindelse. Langdistansekontakter er kun avhengig av de såkalte solflekkene."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Du skal måle utgangseffekten til en transceiver. Målingen foregår i CW med nedtrykket morsenøkkel. Måleinstrumentet kan ikke måle verdier over 15 Watt så derfor brukes det et dempeledd på 10 dB i måleoppstillingen. I tillegg til et SWR/(VSWR)-meter er det koblet inn en effektforsterker (PA-trinn) i koblingen. Effektforsterkeren er avslått, men den har en gjennomgangsdempning på den frekvensen som måles på 1 dB. Gjennomgangsdempningen i SWR/(VSWR)-meteret samt diverse kabeltap og pluggtap er på 2 dB. Måleinstrumentet viser 8 Watt. Hvor stor utgangseffekt har senderen?",
+    "answers": ["160 Watt", "23 Watt", "60 Watt", "43 Watt"],
+    "solution": 0
+  },
+  {
+    "question": "Din radioamatør-transceiver dekker ikke 5 MHz. Transceiveren er CE-merket. Fabrikanten har ikke gitt ut noen beskrivelse av hva som kan gjøres for å få den til også å dekke 5 MHz. Du har funnet en beskrivelse på internett som viser hvilke dioder som kan loddes ut for å få transceiveren til også å dekke 5 MHz. Hvilke regler gjelder for denne problemstillingen?",
+    "answers": [
+      "Forskrift om radioamatørlisens beskriver slik modifikasjon av radioamatørutstyr. Du kan selv foreta denne modifikasjonen for å kunne bruke transceiveren på 5 MHz.",
+      "Leverandøren av utstyret kan lovlig gjøre denne endringen. I praksis vil det si serviceverkstedet til forretningen hvor utstyret er kjøpt eller radioutstyrets representant i Norge.",
+      "Ombygging av radioamatørutstyr er ikke dekket av forskriften og er dermed lovlig.",
+      "Etter innføringen av CE-merkingen av radioamatørutstyr er det ulovlig å gjøre inngrep i apparatet. En slik modifikasjon er ikke lovlig."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hva er forskjellen på effekt og energi?",
+    "answers": [
+      "Effekt er betegnelsen på kurveformen til vekselstrøm.",
+      "Effekt og energi er det samme, men energi brukes om effekten som leveres fra strømnettet.",
+      "Energi er betegnelsen på effekt målt over en tidsperiode.",
+      "Energi er samlebetegnelse på et homogent vekselspenningsfelt med frekvens under 100Hz."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hvordan er sammenhengen mellom frekvens, dempning og lengde av en coax-kabel?",
+    "answers": [
+      "Dempningen i en kort coax-kabel er større enn i en lang coax-kabel ved samme frekvens.",
+      "Dempningen avtar med økende frekvens uavhengig av coax-kabelens lengde.",
+      "Dempningen i en coax-kabel øker med lengre coax-kabel og høyere frekvens.",
+      "Dempningen er konstant i en bestemt kabeltype uavhengig av frekvensen."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hvilken Q-kode brukes for å fortelle at du bruker lav utgangseffekt?",
+    "answers": ["QRK", "QRP", "QRV", "QRO"],
+    "solution": 1
+  },
+  {
+    "question": "Hvilken betegnelse kan vi bruke på en serieresonanskrets på frekvenser over resonansfrekvensen?",
+    "answers": ["Induktiv", "Kapasitiv", "Kortsluttet", "Ohmsk"],
+    "solution": 0
+  },
+  {
+    "question": "Hva forstår vi med ”MUF” som er en forkortelse for ”Maximum usable frequency”?",
+    "answers": [
+      "MUF betegner den høyeste frekvensen som vil passere igjennom ionosfæren, og dermed den høyeste frekvensen som kan brukes for kommunikasjon via satellitter.",
+      "MUF betegner den høyeste frekvensen som blir reflektert i ionosfæren.",
+      "MUF er den høyeste frekvensen som gir god kommunikasjon innenfor skipdistansen.",
+      "Question 14"
+    ],
+    "solution": 1
+  },
+  {
+    "question": "De enkelte frekvensbånd har i forskrift for radioamatørlisens fått status ”Sekundær” eller Primær”. Hva betyr dette?",
+    "answers": [
+      "På frekvensbånd med sekundær status er maksimal utgangseffekt 100 Watt. På frekvensbånd med primær status er maksimal utgangseffekt 1000 Watt.",
+      "Frekvensbånd med sekundær status kan kun brukes til DX; det vil si langdistansekontakter. Frekvensbånd med primær status har ingen slik begrensning.",
+      "Brukere med sekundær status skal vike for brukere med primær status.",
+      "Alle lisensierte radioamatører kan bruke frekvensbåndene med primær status. Erfarne radioamatører med mer enn 3 års erfaring kan få tillatelse til også å bruke frekvensbånd med sekundær status."
+    ],
+    "solution": 2
+  },
+  {
+    "question": "Hva er aldersgrensen for å kunne få radioamatørlisens i Norge?",
+    "answers": [
+      "18 år",
+      "15 år",
+      "12 år",
+      "Det er ingen aldersgrense for å få radioamatørlisens."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "I en transistorkobling er innsignalet koblet til emitter, og utgangen er tilkoblet kollektor. I tillegg består koblingen av diverse motstander og kondensatorer. Hvilke egenskaper kjennetegner en slik kobling?",
+    "answers": [
+      "Koplingen er en FM-detektor og frekvensgangen bestemmes av kombinasjonen av kondensatorene.",
+      "Koplingen kalles en felles emitterkopling og har liten strømforsterkning og stor spenningsforsterkning.",
+      "Koplingen kalles en felles kollektorkopling og har liten (~1) spenningsforsterkning og stor strømforsterkning.",
+      "Koplingen kalles en felles basiskoppling og har stor spenningsforsterkning og liten (~1) strømforsterkning."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "En spole, en kondensator og en motstand kobles i serie. Dette vil danne en resonanskrets. Hvilken komponent er viktigst med hensyn til kretsens Q-verdi?",
+    "answers": [
+      "Kondensatoren",
+      "Alle komponentene er like viktige.",
+      "Spolen",
+      "Motstanden"
+    ],
+    "solution": 3
+  },
+  {
+    "question": "Radioamatørene bruker RST-systemet for rapportering i en QSO. Hva betyr dette?",
+    "answers": [
+      "RST brukes for å gi rapport om motstasjonens leselighet, signalstyrke og tone.",
+      "RST betyr repeater. Det vil si at radioforbindelsen går via en repeater også kalt relestasjon som gjerne er plassert på en høytliggende posisjon. Brukes oftest på 2meter båndet.",
+      "RST betyr Repair the Stations Transmitter som brukes når motstasjonen nesten ikke er hørbar, og du antar at det er noe galt med stasjonens sender.",
+      "RST står for repeat eller gjenta. Det brukes for å be motstasjonen gjenta siste melding."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hvor stor båndbredde får et AM-signal når laveste modulasjonsfrekvens er 300 Hz og høyeste modulasjonsfrekvens er 2400 Hz. Bruk det svaret som er nærmest den båndbredden du mener er riktig.",
+    "answers": [
+      "4,8 kHz",
+      "AM brukes bare av kringkastingsstasjoner med høy sendereffekt. Når effekten øker ut over det som er tillatt for radioamatører så dobles samtidig båndbredden",
+      "4,2 kHz",
+      "2,1 kHz"
+    ],
+    "solution": 0
+  },
+  {
+    "question": "En ustabilisert strømforsyning brukes som spenningskilde til noen lyspærer. Strømforsyningen er laget ved hjelp av en transformator, en brolikeretter med 4 dioder og en glattekondensator. I tillegg er det koblet inn en sikring på transformatorens primærside. Etter en tid blir det brudd i en av diodene i brolikeretteren. Hva vil skje med strømforsyningen hvis du fortsatt bruker den?",
+    "answers": [
+      "Utspenningen vil synke og lyspærene vil antagelig lyse noe svakere.",
+      "Transformatoren blir overbelastet og sikringen vil løse ut slik at vi unngår å ødelegge transformatoren.",
+      "Det er unødvendig med likeretter og glattekondensator i denne koplingen. Det har derfor ingen betydning om det blir brudd i en eller flere av diodene.",
+      "Det blir større belastning på de andre diodene."
+    ],
+    "solution": 0
+  },
+  {
+    "question": "En 2 meter repeater med sendefrekvens på 145,7 MHz og mottakerfrekvens på 145,1 MHz blir interferert av andre radiosendere. Mottakeren på repeateren er kun interferert når repeaterens egen sender er aktiv. Det er sannsynlig at forstyrrelsene skyldes intermodulasjon. Repeateren er plassert sammen med 4 andre sendere med følgende frekvenser: 146,4 MHz, 148,4 MHz, 154,5 MHz og 155,1 MHz. Hvilke av disse senderne sammen med repeaterens egen sender er sannsynligvis med på å generere intermodulasjonspoduktet som forstyrrer repeaterens mottaker?",
+    "answers": [
+      "154,5 MHz og 155,1 MHz",
+      "146,4 MHz og 155,1 MHz",
+      "146,4 MHz og 148,4 MHz",
+      "148,4 MHz og 154,5 MHz"
+    ],
+    "solution": 0
+  },
+  {
+    "question": "Hvilke krav gjelder angående føring av radiodagbok eller såkalt logg?",
+    "answers": [
+      "All bruk av senderen på en radioamatørstasjon i tillegg til alle tekniske endringer ved stasjonen skal føres inn i loggen.",
+      "Kravet om logg eller radiodagbok er fjernet fra forskriften.",
+      "All bruk av senderen bortsett fra mobilkontakter skal føres i loggen.",
+      "All bruk av senderen på en radioamatørstasjon skal føres i loggen."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Hvorfor bruker radioamatørene LSB på frekvenser under 10 MHz og USB på frekvenser over 10 MHz på SSB?",
+    "answers": [
+      "Denne avgjørelsen ble tatt når det ble mer vanlig å bruke SSB enn AM, og hadde betydning for hvilken vei dioden sitter i AM-detektoren på de forskjellige frekvensbånd.",
+      "Det har blitt en innarbeidet praksis.",
+      "Denne måten å bruke LSB og USB er bestemt i forskriften.",
+      "Nedre sidebånd har bedre transmisjonsegenskaper enn øvre sidebånd på lave frekvenser."
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Hvorfor er det viktig at et voltmeter har så høy indre motstand som mulig?",
+    "answers": [
+      "Lav indremotstand i voltmeteret vil føre til stående bølger på måleledningene.",
+      "Voltmeter med høy indremotstand er spesielt godt egnet til å måle høye spenninger.",
+      "Lav indremotstand i voltmeteret vil føre til unødvendig effekttap i instrumentet. Måling på høye spenninger vil føre til behov for kjøling.",
+      "Høy indremotstand i voltmeteret gjør at kretsen det måles på blir belastet minst mulig."
+    ],
+    "solution": 3
+  },
+  {
+    "question": "En halvbølge horisontal dipol-antenne har en lengde på ca. 38 meter. Antennen er koblet direkte til en coax-kabel uten noen form for tilpassning. Tilkoplingspunktet er i midten av antenna. Korreksjonsfaktoren k settes til 0,95. På hvilket frekvensbånd kan du regne med at antenna har et VSWR (SWR) ned mot 1, eller som noen vil si ned mot 1:1?",
+    "answers": ["3,7 MHz", "14 MHz", "144 MHz", "28 MHz"],
+    "solution": 0
+  },
+  {
+    "question": "Hvilket ord brukes for bokstaven ”J” i det internasjonale fonetiske alfabetet?",
+    "answers": ["Juliet", "Juli", "Janus", "Januar"],
+    "solution": 0
+  },
+  {
+    "question": "En VHF-mobiltransceiver for radioamatørbruk som selges i Norge skal være utstyrt med både CE- og alert-merke. Du skal bruke transceiveren i bil. En radioamatør har anledning til å foreta modifisering av utstyret. I hvilket regelverk er en slik modifisering beskrevet?",
+    "answers": [
+      "Forskrift for diverse elektrisk utstyr",
+      "Forskrift om radioamatørlisens",
+      "Vegtrafikkloven",
+      "Ekomloven"
+    ],
+    "solution": 1
+  },
+  {
+    "question": "Det viser seg at på grunn av en feil har du fått harmonisk utstråling fra senderen din når du bruker den på 7,1 MHz. Hvilke radioamatørbånd under 30 MHz som kan brukes i Norge kan bli interferert på grunn av disse harmoniske komponentene?",
+    "answers": [
+      "20 meter, 15 meter og 10 meter",
+      "80 meter, 40 meter, 20 meter, 15 meter og 10 meter",
+      "40 meter, 20 meter, 15 meter og 10 meter",
+      "20 meter og 10 meter"
+    ],
+    "solution": 0
+  }
+]

@@ -1,0 +1,582 @@
+
+Du har radioamatørlisens utstedt i Norge. Hvor finner du oversikt over frekvensbånd som du kan bruke på reise i Sverige?
+Select one:
+
+a.
+Du må undersøke med svenske myndigheter hvilke frekvensbånd som er tillatt brukt i Sverige.
+
+b.
+IARU sin båndplan som gjelder for Norge skal du som norsk radioamatør bruke i Sverige.
+
+c.
+Frekvensbåndene merket ”Sekundær” er internasjonale og de kan du bruke i Sverige.
+
+d.
+Med norsk lisens skal du forholde deg til frekvensbåndene i den norske forskriften ved reise i Sverige.
+Feedback
+The correct answer is: Du må undersøke med svenske myndigheter hvilke frekvensbånd som er tillatt brukt i Sverige.
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Mange radioamatører bruker amatørradio når de kjører bil. Hva står det i ”Forskrift om radioamatørlisens” om bruk av håndholdt mikrofon når du kjører?
+Select one:
+
+a.
+Radioamatørforskriften har ingen bestemmelser om håndholdt mikrofon i bil.
+
+b.
+Radioamatørforskriften viser til Vegtrafikkloven angående bruk av håndholdt mikrofon i bil.
+
+c.
+Det er ikke lov å bruke amatørradio i bil når bilen er i bevegelse. Derfor er det ingen bestemmelser om håndholdt mikrofon.
+
+d.
+I radioamatørforskriften er det en egen bestemmelse som forbyr bruk av håndholdt mikrofon i bil.
+Feedback
+The correct answer is: Radioamatørforskriften har ingen bestemmelser om håndholdt mikrofon i bil.
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+På mottakere/tranceivere kan AF-gain justeres. Hva er hensikten med dette.
+Select one:
+
+a.
+AF-gain brukes for å forsinke signalet gjennom MF-trinnet ved digital modulasjon.
+
+b.
+AF-gain brukes til å kalibrere S-meteret.
+
+c.
+AF-gainet er motakerens volumkontroll.
+
+d.
+AF-gainet brukes for å justere båndbredden ved hjelp av sidebåndsfiltrene.
+Feedback
+The correct answer is: AF-gainet er motakerens volumkontroll.
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva bestemmer en superheterodynmottakers passbånd?
+Select one:
+
+a.
+Notch filterets båndbredde er i praksis det samme som mottakerens passbånd.
+
+b.
+Q-verdien i lokaloscillatorens svingekrets bestemmer mottakerens passbånd.
+
+c.
+Mellomfrekvensfilterets 6 dB båndbredde bestemmer mottakerens passbånd.
+
+d.
+Mellomfrekvensfilterets 60 dB båndbredde bestemmer mottakerens passbånd.
+Feedback
+The correct answer is: Mellomfrekvensfilterets 6 dB båndbredde bestemmer mottakerens passbånd.
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva heter den internasjonale organisasjonen som er ansvarlig for radioreglementet?
+Select one:
+
+a.
+European Radiocommunication office (ERO)
+
+b.
+European Telecommunications Standads Institute (ETSI)
+
+c.
+European Conference of Postal and Telecommunications Administration (CEPT)
+
+d.
+International Telecommunication Union (ITU)
+Feedback
+The correct answer is: International Telecommunication Union (ITU)
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Ved en senderantenne vil det dannes et elektrisk felt, et magnetisk felt og et elektromagnetisk felt. Hvilket av disse feltene bærer signalet fram til mottakerstasjonen?
+Select one:
+
+a.
+Det elektriske feltet
+
+b.
+Det elektromagnetiske feltet
+
+c.
+Det magnetiske feltet
+
+d.
+Ingen av disse feltene har betydning for en radioforbindelse. Langdistansekontakter er kun avhengig av de såkalte solflekkene.
+Feedback
+The correct answer is: Det elektromagnetiske feltet
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Du skal måle utgangseffekten til en transceiver. Målingen foregår i CW med nedtrykket morsenøkkel. Måleinstrumentet kan ikke måle verdier over 15 Watt så derfor brukes det et dempeledd på 10 dB i måleoppstillingen. I tillegg til et SWR/(VSWR)-meter er det koblet inn en effektforsterker (PA-trinn) i koblingen. Effektforsterkeren er avslått, men den har en gjennomgangsdempning på den frekvensen som måles på 1 dB. Gjennomgangsdempningen i SWR/(VSWR)-meteret samt diverse kabeltap og pluggtap er på 2 dB. Måleinstrumentet viser 8 Watt. Hvor stor utgangseffekt har senderen?
+Select one:
+
+a.
+160 Watt
+
+b.
+23 Watt
+
+c.
+60 Watt
+
+d.
+43 Watt
+Feedback
+The correct answer is: 160 Watt
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Din radioamatør-transceiver dekker ikke 5 MHz. Transceiveren er CE-merket. Fabrikanten har ikke gitt ut noen beskrivelse av hva som kan gjøres for å få den til også å dekke 5 MHz. Du har funnet en beskrivelse på internett som viser hvilke dioder som kan loddes ut for å få transceiveren til også å dekke 5 MHz. Hvilke regler gjelder for denne problemstillingen?
+Select one:
+
+a.
+Forskrift om radioamatørlisens beskriver slik modifikasjon av radioamatørutstyr. Du kan selv foreta denne modifikasjonen for å kunne bruke transceiveren på 5 MHz.
+
+b.
+Leverandøren av utstyret kan lovlig gjøre denne endringen. I praksis vil det si serviceverkstedet til forretningen hvor utstyret er kjøpt eller radioutstyrets representant i Norge.
+
+c.
+Ombygging av radioamatørutstyr er ikke dekket av forskriften og er dermed lovlig.
+
+d.
+Etter innføringen av CE-merkingen av radioamatørutstyr er det ulovlig å gjøre inngrep i apparatet. En slik modifikasjon er ikke lovlig.
+Feedback
+The correct answer is: Forskrift om radioamatørlisens beskriver slik modifikasjon av radioamatørutstyr. Du kan selv foreta denne modifikasjonen for å kunne bruke transceiveren på 5 MHz.
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva er forskjellen på effekt og energi?
+Select one:
+
+a.
+Effekt er betegnelsen på kurveformen til vekselstrøm.
+
+b.
+Effekt og energi er det samme, men energi brukes om effekten som leveres fra strømnettet.
+
+c.
+Energi er betegnelsen på effekt målt over en tidsperiode.
+
+d.
+Energi er samlebetegnelse på et homogent vekselspenningsfelt med frekvens under 100Hz.
+Feedback
+The correct answer is: Energi er betegnelsen på effekt målt over en tidsperiode.
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvordan er sammenhengen mellom frekvens, dempning og lengde av en coax-kabel?
+Select one:
+
+a.
+Dempningen i en kort coax-kabel er større enn i en lang coax-kabel ved samme frekvens.
+
+b.
+Dempningen avtar med økende frekvens uavhengig av coax-kabelens lengde.
+
+c.
+Dempningen i en coax-kabel øker med lengre coax-kabel og høyere frekvens.
+
+d.
+Dempningen er konstant i en bestemt kabeltype uavhengig av frekvensen.
+Feedback
+The correct answer is: Dempningen i en coax-kabel øker med lengre coax-kabel og høyere frekvens.
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvilken Q-kode brukes for å fortelle at du bruker lav utgangseffekt?
+Select one:
+
+a.
+QRK
+
+b.
+QRP
+
+c.
+QRV
+
+d.
+QRO
+Feedback
+The correct answer is: QRP
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvilken betegnelse kan vi bruke på en serieresonanskrets på frekvenser over resonansfrekvensen?
+Select one:
+
+a.
+Induktiv
+
+b.
+Kapasitiv
+
+c.
+Kortsluttet
+
+d.
+Ohmsk
+Feedback
+The correct answer is: Induktiv
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva forstår vi med ”MUF” som er en forkortelse for ”Maximum usable frequency”?
+Select one:
+
+a.
+MUF betegner den høyeste frekvensen som vil passere igjennom ionosfæren, og dermed den høyeste frekvensen som kan brukes for kommunikasjon via satellitter.
+
+b.
+MUF betegner den høyeste frekvensen som blir reflektert i ionosfæren.
+
+c.
+MUF er den høyeste frekvensen som gir god kommunikasjon innenfor skipdistansen.
+Feedback
+The correct answer is: MUF betegner den høyeste frekvensen som blir reflektert i ionosfæren.
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+De enkelte frekvensbånd har i forskrift for radioamatørlisens fått status ”Sekundær” eller Primær”. Hva betyr dette?
+Select one:
+
+a.
+På frekvensbånd med sekundær status er maksimal utgangseffekt 100 Watt. På frekvensbånd med primær status er maksimal utgangseffekt 1000 Watt.
+
+b.
+Frekvensbånd med sekundær status kan kun brukes til DX; det vil si langdistansekontakter. Frekvensbånd med primær status har ingen slik begrensning.
+
+c.
+Brukere med sekundær status skal vike for brukere med primær status.
+
+d.
+Alle lisensierte radioamatører kan bruke frekvensbåndene med primær status. Erfarne radioamatører med mer enn 3 års erfaring kan få tillatelse til også å bruke frekvensbånd med sekundær status.
+Feedback
+The correct answer is: Brukere med sekundær status skal vike for brukere med primær status.
+Question 15
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva er aldersgrensen for å kunne få radioamatørlisens i Norge?
+Select one:
+
+a.
+18 år
+
+b.
+15 år
+
+c.
+12 år
+
+d.
+Det er ingen aldersgrense for å få radioamatørlisens.
+Feedback
+The correct answer is: Det er ingen aldersgrense for å få radioamatørlisens.
+Question 16
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+I en transistorkobling er innsignalet koblet til emitter, og utgangen er tilkoblet kollektor. I tillegg består koblingen av diverse motstander og kondensatorer. Hvilke egenskaper kjennetegner en slik kobling?
+
+Select one:
+
+a.
+Koplingen er en FM-detektor og frekvensgangen bestemmes av kombinasjonen av kondensatorene.
+
+b.
+Koplingen kalles en felles emitterkopling og har liten strømforsterkning og stor spenningsforsterkning.
+
+c.
+Koplingen kalles en felles kollektorkopling og har liten (~1) spenningsforsterkning og stor strømforsterkning.
+
+d.
+Koplingen kalles en felles basiskoppling og har stor spenningsforsterkning og liten (~1) strømforsterkning.
+Feedback
+The correct answer is: Koplingen kalles en felles basiskoppling og har stor spenningsforsterkning og liten (~1) strømforsterkning.
+Question 17
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En spole, en kondensator og en motstand kobles i serie. Dette vil danne en resonanskrets. Hvilken komponent er viktigst med hensyn til kretsens Q-verdi?
+Select one:
+
+a.
+Kondensatoren
+
+b.
+Alle komponentene er like viktige.
+
+c.
+Spolen
+
+d.
+Motstanden
+Feedback
+The correct answer is: Motstanden
+Question 18
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Radioamatørene bruker RST-systemet for rapportering i en QSO. Hva betyr dette?
+Select one:
+
+a.
+RST brukes for å gi rapport om motstasjonens leselighet, signalstyrke og tone.
+
+b.
+RST betyr repeater. Det vil si at radioforbindelsen går via en repeater også kalt relestasjon som gjerne er plassert på en høytliggende posisjon. Brukes oftest på 2meter båndet.
+
+c.
+RST betyr Repair the Stations Transmitter som brukes når motstasjonen nesten ikke er hørbar, og du antar at det er noe galt med stasjonens sender.
+
+d.
+RST står for repeat eller gjenta. Det brukes for å be motstasjonen gjenta siste melding.
+Feedback
+The correct answer is: RST brukes for å gi rapport om motstasjonens leselighet, signalstyrke og tone.
+Question 19
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvor stor båndbredde får et AM-signal når laveste modulasjonsfrekvens er 300 Hz og høyeste modulasjonsfrekvens er 2400 Hz. Bruk det svaret som er nærmest den båndbredden du mener er riktig.
+Select one:
+
+a.
+4,8 kHz
+
+b.
+AM brukes bare av kringkastingsstasjoner med høy sendereffekt. Når effekten øker ut over det som er tillatt for radioamatører så dobles samtidig båndbredden
+
+c.
+4,2 kHz
+
+d.
+2,1 kHz
+Feedback
+The correct answer is: 4,8 kHz
+Question 20
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En ustabilisert strømforsyning brukes som spenningskilde til noen lyspærer. Strømforsyningen er laget ved hjelp av en transformator, en brolikeretter med 4 dioder og en glattekondensator. I tillegg er det koblet inn en sikring på transformatorens primærside. Etter en tid blir det brudd i en av diodene i brolikeretteren. Hva vil skje med strømforsyningen hvis du fortsatt bruker den?
+Select one:
+
+a.
+Utspenningen vil synke og lyspærene vil antagelig lyse noe svakere.
+
+b.
+Transformatoren blir overbelastet og sikringen vil løse ut slik at vi unngår å ødelegge transformatoren.
+
+c.
+Det er unødvendig med likeretter og glattekondensator i denne koplingen. Det har derfor ingen betydning om det blir brudd i en eller flere av diodene.
+
+d.
+Det blir større belastning på de andre diodene.
+Feedback
+The correct answer is: Utspenningen vil synke og lyspærene vil antagelig lyse noe svakere.
+Question 21
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En 2 meter repeater med sendefrekvens på 145,7 MHz og mottakerfrekvens på 145,1 MHz blir interferert av andre radiosendere. Mottakeren på repeateren er kun interferert når repeaterens egen sender er aktiv. Det er sannsynlig at forstyrrelsene skyldes intermodulasjon. Repeateren er plassert sammen med 4 andre sendere med følgende frekvenser: 146,4 MHz, 148,4 MHz, 154,5 MHz og 155,1 MHz. Hvilke av disse senderne sammen med repeaterens egen sender er sannsynligvis med på å generere intermodulasjonspoduktet som forstyrrer repeaterens mottaker?
+Select one:
+
+a.
+154,5 MHz og 155,1 MHz
+
+b.
+146,4 MHz og 155,1 MHz
+
+c.
+146,4 MHz og 148,4 MHz
+
+d.
+148,4 MHz og 154,5 MHz
+Feedback
+The correct answer is: 154,5 MHz og 155,1 MHz
+Question 22
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvilke krav gjelder angående føring av radiodagbok eller såkalt logg?
+Select one:
+
+a.
+All bruk av senderen på en radioamatørstasjon i tillegg til alle tekniske endringer ved stasjonen skal føres inn i loggen.
+
+b.
+Kravet om logg eller radiodagbok er fjernet fra forskriften.
+
+c.
+All bruk av senderen bortsett fra mobilkontakter skal føres i loggen.
+
+d.
+All bruk av senderen på en radioamatørstasjon skal føres i loggen.
+Feedback
+The correct answer is: Kravet om logg eller radiodagbok er fjernet fra forskriften.
+Question 23
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvorfor bruker radioamatørene LSB på frekvenser under 10 MHz og USB på frekvenser over 10 MHz på SSB?
+Select one:
+
+a.
+Denne avgjørelsen ble tatt når det ble mer vanlig å bruke SSB enn AM, og hadde betydning for hvilken vei dioden sitter i AM-detektoren på de forskjellige frekvensbånd.
+
+b.
+Det har blitt en innarbeidet praksis.
+
+c.
+Denne måten å bruke LSB og USB er bestemt i forskriften.
+
+d.
+Nedre sidebånd har bedre transmisjonsegenskaper enn øvre sidebånd på lave frekvenser.
+Feedback
+The correct answer is: Det har blitt en innarbeidet praksis.
+Question 24
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvorfor er det viktig at et voltmeter har så høy indre motstand som mulig?
+Select one:
+
+a.
+Lav indremotstand i voltmeteret vil føre til stående bølger på måleledningene.
+
+b.
+Voltmeter med høy indremotstand er spesielt godt egnet til å måle høye spenninger.
+
+c.
+Lav indremotstand i voltmeteret vil føre til unødvendig effekttap i instrumentet. Måling på høye spenninger vil føre til behov for kjøling.
+
+d.
+Høy indremotstand i voltmeteret gjør at kretsen det måles på blir belastet minst mulig.
+Feedback
+The correct answer is: Høy indremotstand i voltmeteret gjør at kretsen det måles på blir belastet minst mulig.
+Question 25
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En halvbølge horisontal dipol-antenne har en lengde på ca. 38 meter. Antennen er koblet direkte til en coax-kabel uten noen form for tilpassning. Tilkoplingspunktet er i midten av antenna. Korreksjonsfaktoren k settes til 0,95. På hvilket frekvensbånd kan du regne med at antenna har et VSWR (SWR) ned mot 1, eller som noen vil si ned mot 1:1?
+Select one:
+
+a.
+3,7 MHz
+
+b.
+14 MHz
+
+c.
+144 MHz
+
+d.
+28 MHz
+Feedback
+The correct answer is: 3,7 MHz
+Question 26
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvilket ord brukes for bokstaven ”J” i det internasjonale fonetiske alfabetet?
+Select one:
+
+a.
+Juliet
+
+b.
+Juli
+
+c.
+Janus
+
+d.
+Januar
+Feedback
+The correct answer is: Juliet
+Question 27
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En VHF-mobiltransceiver for radioamatørbruk som selges i Norge skal være utstyrt med både CE- og alert-merke. Du skal bruke transceiveren i bil. En radioamatør har anledning til å foreta modifisering av utstyret. I hvilket regelverk er en slik modifisering beskrevet?
+Select one:
+
+a.
+Forskrift for diverse elektrisk utstyr
+
+b.
+Forskrift om radioamatørlisens
+
+c.
+Vegtrafikkloven
+
+d.
+Ekomloven
+Feedback
+The correct answer is: Forskrift om radioamatørlisens
+Question 28
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Det viser seg at på grunn av en feil har du fått harmonisk utstråling fra senderen din når du bruker den på 7,1 MHz. Hvilke radioamatørbånd under 30 MHz som kan brukes i Norge kan bli interferert på grunn av disse harmoniske komponentene?
+Select one:
+
+a.
+20 meter, 15 meter og 10 meter
+
+b.
+80 meter, 40 meter, 20 meter, 15 meter og 10 meter
+
+c.
+40 meter, 20 meter, 15 meter og 10 meter
+
+d.
+20 meter og 10 meter
+Feedback
+The correct answer is: 20 meter, 15 meter og 10 meter

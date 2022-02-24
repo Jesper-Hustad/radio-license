@@ -1,0 +1,582 @@
+
+Hvilket eller hvilke ionosfærelag er viktigst for langdistansekontakter om natten
+Select one:
+
+a.
+F-laget
+
+b.
+D-laget og F1-laget
+
+c.
+D-laget og F2-laget
+
+d.
+E-laget
+Feedback
+The correct answer is: F-laget
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Antall solflekker eller solflekktallet varierer i en tidsperiode på ca. 11 år, med lave solflekktall i begynnelsen og i slutten av 11 årsperioden, og høye solflekktall midt i perioden. Hvordan er sammenhengen mellom MUF (Maxsimum Usable Frequency) og antall solflekker; det såkalte solflekktallet?
+Select one:
+
+a.
+Det er ingen sammenheng mellom MUF og solflekktallet.
+
+b.
+Ved høye solflekktall får vi lav MUF.
+
+c.
+Ved høye solflekktall får vi høy MUF.
+
+d.
+MUF er lav i begynnelsen av 11 årsperioden og høy i slutten av 11 årsperioden.
+Feedback
+The correct answer is: Ved høye solflekktall får vi høy MUF.
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva kalles et MF-filters forhold mellom 6 dB og 60 dB båndbredde?
+Select one:
+
+a.
+Formfaktor eller Shape-factor
+
+b.
+Steilhet
+
+c.
+Linearitet
+
+d.
+Dempning eller forsterkning
+Feedback
+The correct answer is: Formfaktor eller Shape-factor
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En radioamatør kan etter forskriften bruke inntil 1000 Watt på de fleste HF-bånd. Hvor måles eller hvordan beregnes denne effekten?
+Select one:
+
+a.
+Utstrålt effekt fra antenna, ofte benevnt som ERP (Effektiv radiated power).
+
+b.
+Effekt som senderen trekker fra lysnettet, eller annen kraftkilde som for eksempel batteri.
+
+c.
+Effekt som tilføres antenna fra fødeledningen.
+
+d.
+Senderens utgangseffekt.
+Feedback
+The correct answer is: Senderens utgangseffekt.
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva er en variabel kondensator?
+Select one:
+
+a.
+Keramiske kondensatorer og elektrolyttkondensatorer har forskjellig elektriske egenskaper. Blant annet har de keramiske kondensatorene meget gode høyfrekvensegenskaper, mens elektrolyttkondensatoren brukes mest i lavfrekvenstrinn og strømforsyninger. En variabel kondensator har begge disse kondensatortypenes gode egenskaper.
+
+b.
+En variabel kondensator har tre tilkoplinger. Den tredje tilkoplingen koples til et instrument for å lese av frekvensen. Variabel frekvens gir endret avlesning.
+
+c.
+En variabel kondensator er en mekanisk innretning som oftest har en bevegelig rotor og en fast stator. Både rotor og stator er forsynt med metallplater som kan beveges i forhold til hverandre.
+
+d.
+En kondensator som endrer verdi ved endring av vekselstrømmen gjennom kondensatoren kalles en variabel kondensator.
+Feedback
+The correct answer is: En variabel kondensator er en mekanisk innretning som oftest har en bevegelig rotor og en fast stator. Både rotor og stator er forsynt med metallplater som kan beveges i forhold til hverandre.
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva er forskjellen på en enkelsuper og dobbelsuper mottaker?
+Select one:
+
+a.
+Enkelsuper mottaker har kun et avstemt filter i inngangskretsen. Dobbelsuper har flere og skarpere filter i inngangskretsene som vil bedre speilfrekvensdempningen.
+
+b.
+Dobbelsuper har to eller flere filtre i motakeren. For eksempel 400 Hz filter for CW og 2,4 kHz filter for SSB.
+
+c.
+Enkelsuper mottaker kan kun lytte på et bølgebånd, for eksempel 80 meter. Dobbelsuper mottaker kan lytte på alle HF-båndene.
+
+d.
+Enkelsuper mottaker har kun en mellomfrekvens. Dobbelsuper mottaker har to mellomfrekvenser.
+Feedback
+The correct answer is: Enkelsuper mottaker har kun en mellomfrekvens. Dobbelsuper mottaker har to mellomfrekvenser.
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva kalles en transistorkoppling hvor emitterer avkoplet med en kondensator til signalveiens referanse og inngangssignaleter tilkoplet basis?
+Select one:
+
+a.
+Felles basiskopling
+
+b.
+Felles kollektorkopling
+
+c.
+Felles emitterkopling
+
+d.
+Felles anodekopling
+Feedback
+The correct answer is: Felles emitterkopling
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+To batterier med klemmespenning på 12 Volt seriekoples slik at spenningen over batteriene blir 24 Volt. Hvert batteri kan levere en strøm på maksimalt 4 Ampere. Hvor stor strøm kan de seriekopplede batteriene levere?
+
+Select one:
+
+a.
+Maksimalt strømtrekk er 4 Ampere.
+
+b.
+Maksimalt strømtrekk er 3 Ampere.
+
+c.
+Maksimalt strømtrekk er 2 Ampere.
+
+d.
+Maksimalt strømtrekk er 8 Ampere.
+Feedback
+The correct answer is: Maksimalt strømtrekk er 4 Ampere.
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvilken Q-kode vil du bruke for å fortelle at motstasjonens signaler blir forstyrret av andre radioamatører?
+Select one:
+
+a.
+QRO
+
+b.
+QRM
+
+c.
+QRT
+
+d.
+QSB
+Feedback
+The correct answer is: QRM
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En motstand er merket på følgende måte: ”470ohm og 0,5 Watt”. Hva betyr dette?
+Select one:
+
+a.
+Effekten i motstanden er 470 ohm og impedansen er 0,5 Watt.
+
+b.
+Resistansen i motstanden er 470 ohm og den kan maksimalt avgi 0,5 Watt.
+
+c.
+Ved en omgivelsestemperatur på 20 grader så har motstanden en spenning på 470 ohm.
+
+d.
+Disse verdiene tilsier at det må være en trådviklet motstand.
+Feedback
+The correct answer is: Resistansen i motstanden er 470 ohm og den kan maksimalt avgi 0,5 Watt.
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En parallellkobling av en kondensator og en spole danner en resonanskrets. Kretsens resonansfrekvens er 7 MHz. Spolens induktivitet er på 10 µH (mikrohenry). Hvor stor er kondensatorens kapasitet?
+Select one:
+
+a.
+5,17 pF
+
+b.
+5,17 nF
+
+c.
+517 pF
+
+d.
+51,7 pF
+Feedback
+The correct answer is: 51,7 pF
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva kjennetegner en sender med en utgangsforsterker i klasse AB?
+Select one:
+
+a.
+En klasse AB utgangsforsterker brukes kun på store kringkastingssendere.
+
+b.
+En utgangsforsterker i klasse AB er ulineær og egner seg derfor kun til telegrafi.
+
+c.
+En klasse AB utgangsforsterker er lineær og kan derfor brukes med de fleste modulasjonsformer.
+
+d.
+En klasse AB utgangsforsterker brukes kun på 2 meter (144MHz) og høyere frekvenser.
+Feedback
+The correct answer is: En klasse AB utgangsforsterker er lineær og kan derfor brukes med de fleste modulasjonsformer.
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva slags filter vil bestå av en spole og en kondensator som kobles i parallell med signalveien?
+Select one:
+
+a.
+Et høypassfilter
+
+b.
+Et båndstoppfilter eller sperrefilter
+
+c.
+Et lavpassfilter
+
+d.
+Et båndpassfilter
+Feedback
+The correct answer is: Et båndpassfilter
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Instrumentet på en moderne radioamatørstasjon viser at det går ca. 15 Ampere i senderens sluttrinn. Du ser i manualen at sluttrinnets driftspenning skal være ca. 13 Volt. Hvor stor utgangseffekt kan du forvente at senderen leverer?
+Select one:
+
+a.
+Mellom 100 og 200 Watt avhengig av modulasjonstype
+
+b.
+I overkant av 250 Watt telegrafi og ca. 800 Watt SSB
+
+c.
+I dette tilfelle har ikke spenningen noen betydning. Uteffekten får ikke blitt større enn den tilførte strømmen som er 15 Ampere. Det vil si maksimalt 15 Watt.
+
+d.
+Mellom 10 og 40 Watt og kun på 2 meter med FM-modulasjon
+Feedback
+The correct answer is: Mellom 100 og 200 Watt avhengig av modulasjonstype
+Question 15
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+I en transistorkobling er innsignalet koblet til basis, og utgangen er tilkoblet kollektor. I tillegg består koblingen av diverse motstander og kondensatorer. Hvilke egenskaper kjennetegner en slik kobling?
+Select one:
+
+a.
+Koplingen kalles en felles emitterkopling og har liten strømforsterkning og stor spenningsforsterkning.
+
+b.
+Koplingen kalles en felles basiskoppling og har stor spenningsforsterkning og stor strømforsterkning.
+
+c.
+Koplingen er en FM-detektor og frekvensgangen bestemmes av kombinasjonen av kondensatorene.
+
+d.
+Koplingen kalles en felles kollektorkopling og har liten spenningsforsterkning og stor strømforsterkning.
+Feedback
+The correct answer is: Koplingen kalles en felles emitterkopling og har liten strømforsterkning og stor spenningsforsterkning.
+Question 16
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En mottaker er innstilt til 14 MHz. Mellomfrekvensen er 1 MHz og lokaloscillatoten ligger over mottakerens inn-frekvens. Hva blir mottakerens speilfrekvens?
+Select one:
+
+a.
+13 MHz
+
+b.
+18MHz
+
+c.
+15MHz
+
+d.
+16MHz
+Feedback
+The correct answer is: 16MHz
+Question 17
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvor stor båndbredde får et SSB-signal når laveste modulasjonsfrekvens er 300 Hz og høyeste modulasjonsfrekvens er 2400 Hz. Bruk det svaret som er nærmest den båndbredden du mener er riktig.
+Select one:
+
+a.
+2,1kHz
+
+b.
+4,2kHz
+
+c.
+4,8kHz
+
+d.
+2,4kHz
+Feedback
+The correct answer is: 2,1kHz
+Question 18
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva menes med skipdistanse?
+Select one:
+
+a.
+Skipdistansen er avstanden mellom der jordbølgen slutter og der første refleksjon fra ionosfæren treffer bakken. Dette kalles også dødsone.
+
+b.
+Skipdistansen er den teoretiske lengste avstand som radiobølger kan nå ved jordbølgetransmisjon.
+
+c.
+Skipdistansen er høyden over bakken på det reflekterende ionosfærelaget.
+
+d.
+Skipdistansen er avstanden fra der første refleksjon fra ionosfæren treffer bakken og fram til mottakerstasjonen.
+Feedback
+The correct answer is: Skipdistansen er avstanden mellom der jordbølgen slutter og der første refleksjon fra ionosfæren treffer bakken. Dette kalles også dødsone.
+Question 19
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Desibel betegnes dB og brukes i elektronikken for å beskrive et forhold mellom to verdier. Vi tar utgangspunkt i forholdet mellom to effekter. Hva er riktig av følgende påstander?
+Select one:
+
+a.
+200 Watt i forhold til 600 Watt er 6 dB.
+
+b.
+10 Watt i forhold til 20 Watt er 3 dB.
+
+c.
+300 Watt i forhold til 20 Watt er 20 dB.
+
+d.
+100 Watt i forhold til 300 Watt er 3 dB.
+Feedback
+The correct answer is: 10 Watt i forhold til 20 Watt er 3 dB.
+Question 20
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En enkel strømforsyning erspenningsstabilisert med en zenerdiode i serie med en motstand. I hvilkensituasjon blir zenerdioden varmest?
+Select one:
+
+a.
+Zenerdioden brukes for å stabilisere spenningen. Det går ikke strøm i zenerdioden og den blir derfor ikke varm.
+
+b.
+Når strømforsyningen ikke er belastet.
+
+c.
+Varmen som zenerdioden gir fra seg er uavhengig av hvordan strømforsyningen belastes.
+
+d.
+Når strømforsyningen belastes maksimalt.
+Feedback
+The correct answer is: Når strømforsyningen ikke er belastet.
+Question 21
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En kvartbølge vertikal antenne plassert på bakken har en lengde på ca. 5 meter. Antennen er koblet direkte til en coax-kabel uten noen form for tilpassning. Tilkoplingspunktet er i bunnen av antenna. Korreksjonsfaktoren k settes til 0,95. På hvilket frekvensbånd kan du regne med at antenna har et SWR(VSWR) ned mot 1, eller som noen vil si ned mot 1:1?
+Select one:
+
+a.
+14 MHz
+
+b.
+144 MHz
+
+c.
+3,5 MHz
+
+d.
+28 MHz
+Feedback
+The correct answer is: 14 MHz
+Question 22
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En nettransformator har en primærvikling som tilkoples 220Volt vekselstrøm. Primærviklingen har dobbelt så mange turn som sekundærviklingen. Hvilken spenning vil vi få over sekundærviklingen når den er ubelastet?
+Select one:
+
+a.
+110 Volt
+
+b.
+220 Volt
+
+c.
+55 Volt
+
+d.
+440 Volt
+Feedback
+The correct answer is: 110 Volt
+Question 23
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvordan vil utstrålingsvinkelen fra en horisontal dipol endres hvis antennens høyde over bakken økes?
+Select one:
+
+a.
+Utstrålingsvinkelen er fast for denne antennetypen og påvirkes ikke av antennens høyde over bakken.
+
+b.
+Utstrålingsvinkelen endres med antennehøyden, men kun ved konstant tilført effekt. Hvis effekten økes så økes også utstrålingsvinkelen.
+
+c.
+Utstrålingsvinkelen blir mindre (lavere).
+
+d.
+Utstrålingsvinkelen blir større (høyere).
+Feedback
+The correct answer is: Utstrålingsvinkelen blir mindre (lavere).
+Question 24
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvilke forholdsregler må en radioamatør ta når det brukes en frekvens nær båndgrensene?
+Select one:
+
+a.
+Redusere effekten slik at senderens utgangstrinn ikke overbelastes.
+
+b.
+Redusere effekten for å unngå at det oppstår harmonisk utstråling utenfor amatørbåndet.
+
+c.
+Såkalte ”near edge frequencies” må ikke brukes uten at det også brukes lavpassfilter i antennekabelen.
+
+d.
+Velge frekvens slik at sidebåndsproduktene havner innenfor båndgrensen.
+Feedback
+The correct answer is: Velge frekvens slik at sidebåndsproduktene havner innenfor båndgrensen.
+Question 25
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En metode for å generere et SSB-signal er blant annet ved hjelp av en ringmodulator som også kalles balansert modulator. Hvordan bestemmer vi om vi får generert et LSB- eller et USB-signal.
+Select one:
+
+a.
+Ringmodulatoren består blant annet av 4 dioder. Retningen på diodene er bestemmende for om resultatet blir LSB eller USB.
+
+b.
+Ringmodulatoren består blant annet av to sammenkoplede spoler på inngangen og to sammenkoplede spoler på utgangen. Innbyrdes vikleretning på disse spolene er bestemmende for om resultatet blir LSB eller USB.
+
+c.
+Ringmodulatoren genererer ikke SSB, men DSB. LSB eller USB får vi ved å filtrere bort det uønskede sidebåndet.
+Feedback
+The correct answer is: Ringmodulatoren genererer ikke SSB, men DSB. LSB eller USB får vi ved å filtrere bort det uønskede sidebåndet.
+Question 26
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Du hører en FM-QSO på 144,0 MHz. Er dette lovlig og hva står det i regelverket om et slikt frekvensvalg?
+Select one:
+
+a.
+Smalbånds FM sender kun ut det øvre sidebåndet. Dette sidebåndet vil ligge innenfor båndgrensen og sendingen er lovlig.
+
+b.
+Det kreves ikke lenger telegrafikunnskaper for å bli lisensiert radioamatør. IARUs båndplan er endret slik at bruk av 144,0 MHz til FM-trafikk er lovlig.
+
+c.
+FM som modulasjonsform på grensefrekvensen 144 MHz er ulovlig fordi halve signalet kommer utenfor radioamatørbåndet.
+
+d.
+Alle FM-transceivere har innebygget AFC (Automatic Frequency controll). Denne kontrollfunksjonen flytter signalet langt nok i frekvens slik at hele FM-signalets båndbredde kommer innenfor radioamatørbåndet. Sendingen er derfor lovlig.
+Feedback
+The correct answer is: FM som modulasjonsform på grensefrekvensen 144 MHz er ulovlig fordi halve signalet kommer utenfor radioamatørbåndet.
+Question 27
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvor finner du hvilke frekvensbånd som norske lisensierte radioamatører kan bruke?
+Select one:
+
+a.
+NRRLs temahefte.
+
+b.
+Forskrift om radioamatørlisens.
+
+c.
+IARU sin båndplan.
+
+d.
+Rundskriv som du får tilsendt ved henvendelse til Post- og teletilsynet.
+Feedback
+The correct answer is: Forskrift om radioamatørlisens.
+Question 28
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvilke dokumenter skal du ha med deg når du bruker din radioamatørstasjon?
+Select one:
+
+a.
+Det er ingen regler om dette.
+
+b.
+Lisenskortet og båndplanen fra IARU.
+
+c.
+Både ”Forskrift om radioamatørlisens som beskriver frekvensbåndene, og lisenskortet.
+
+d.
+Lisenskortet som Post- og teletilsynet utsteder skal du alltid ha med når amatørstasjonen er i bruk.
+Feedback
+The correct answer is: Lisenskortet som Post- og teletilsynet utsteder skal du alltid ha med når amatørstasjonen er i bruk.

@@ -1,0 +1,586 @@
+
+Vi sammenlikner to ladbare batterier som begge har en EMF på12 Volt. Batteriet som vi betegner ”A” belastes med en motstand på 5 ohm.Spenningen på dette batteriet synker da til 11 Volt. Vi gjør det samme med det andre batteriet som vi betegner ”B”. Spenningen på dette batteriet synker til10 Volt. Kan vi ut fra disse målingene si noe om batterienes indremotstand og i så fall hvilket batteri har størst indremotstand?
+
+Select one:
+
+a.
+Ja vi kan si noe om batterienes indremotstand og det er batteri ”A” som har størst indremotstand.
+
+b.
+Ja vi kan si noe om batterienes indremotstand og det er batteri ”B” som har størst indremotstand.
+
+c.
+Nei ut fra dette kan vi ikke si noe om batterienes indremotstand. Batterier har ikke indremotstand. Det er kun elektroniske strømforsyninger som har indremotstand.
+
+d.
+Nei, dette forteller ingen ting om indremotstand. Den kan kun måles når batteriet lades.
+Feedback
+The correct answer is: Ja vi kan si noe om batterienes indremotstand og det er batteri ”B” som har størst indremotstand.
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Radioamatørgruppens 70cm repeater blir forstyrret. Repeaterens duplexavstand er 2 MHz. I nærheten av repeateren finnes det to VHF-sendere. Disse senderne har utfrekvens på henholdsvis 156 MHz og 158 MHz. Både repeaterens sender og de to andre senderene må være i senderstilling for at det skal bli støy på repeaterens mottaker. Hva er den sannsynlige årsaken til dette?
+Select one:
+
+a.
+Intermodulasjon
+
+b.
+Overmodulasjon
+
+c.
+Undermodulasjon
+
+d.
+For dårlig speilfrekvensdenping i repeaterens mottaker.
+Feedback
+The correct answer is: Intermodulasjon
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva er sammenhengen mellom periodetid og frekvens?
+Select one:
+
+a.
+Frekvens og periodetid har ingen sammenheng.
+
+b.
+Høyere frekvens gir kortere periodetid.
+
+c.
+Frekvensen er halvparten av periodetiden.
+
+d.
+Frekvensen er det dobbelte av periodetiden.
+Feedback
+The correct answer is: Høyere frekvens gir kortere periodetid.
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva skjer når en kondensator påtrykkes en høyere frekvens?
+Select one:
+
+a.
+Kapasiteten øker.
+
+b.
+Reaktansen minker.
+
+c.
+Reaktansen øker.
+
+d.
+Kapasiteten minker.
+Feedback
+The correct answer is: Reaktansen minker.
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Blokkskjemaet til en superheterodyn mottaker består blant annet av HF-trinn, blander eller mikser,oscillator og detektor. På hvilket sted i mottakeren bestemmes mottakerens evne til å undertrykke speilfrekvensen?
+Select one:
+
+a.
+Blanderen eller mikseren
+
+b.
+Detektoren
+
+c.
+Oscillatoren
+
+d.
+HF-trinnet
+Feedback
+The correct answer is: HF-trinnet
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvem kan med din tillatelse bruke din faste amatørstasjon når du ikke er hjemme?
+Select one:
+
+a.
+Din nærmeste familie kan bruke amatørstasjonen for å kommunisere med deg når du bruker /M etter ditt kallesignal som betegner at du er mobil.
+
+b.
+Den som skal bruke amatørstasjonen må være lisensiert radioamatør.
+
+c.
+For å holde kontakt med deg kan din nærmeste familie bruke amatørstasjonen for å holde kontakt med deg.
+
+d.
+Din nærmeste familie kan bruke amatørstasjonen for å kommunisere med andre radioamatører.
+Feedback
+The correct answer is: Den som skal bruke amatørstasjonen må være lisensiert radioamatør.
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Lisensierte radioamatører får tildelt et kallesignal. Hva er hensikten med dette kallesignalet og hvordan skal dette kallesignalet benyttes?
+Select one:
+
+a.
+Kallesignalet er Post- og teletilsynets interne kundenummer. Det har ingen praktisk betydning for deg som lisensiert radioamatør.
+
+b.
+Kallesignalet trykkes på lisenskortet som du får av Post- og teletilsynet når du har bestått prøven. Dette kortet må vises fram for å få kjøpt radioamatørutstyr.
+
+c.
+Kallesignalet skal sendes ved begynnelse og slutt av hver radioforbindelse og ved passende intervaller under en radioforbindelse.
+
+d.
+Kallesignalet brukes i dag kun ved automatiske stasjoner som for eksempel relestasjoner eller repeatere på VHF og UHF. Kallesignalet brukes for å aktivere relestasjonen.
+Feedback
+The correct answer is: Kallesignalet skal sendes ved begynnelse og slutt av hver radioforbindelse og ved passende intervaller under en radioforbindelse.
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+I en transistorkobling er innsignalet koblet til basis, og utgangen er tilkoblet emitter. I tillegg består koblingen av diverse motstander og kondensatorer. Hvilke egenskaper kjennetegner en slik kobling?
+Select one:
+
+a.
+Koplingen kalles en felles emitterkopling og har liten strømforsterkning og stor spenningsforsterkning.
+
+b.
+Koplingen kalles en felles kollektorkopling og har liten spenningsforsterkning og stor strømforsterkning.
+
+c.
+Koplingen er en oscillator og frekvensen bestemmes av kombinasjonen av kondensatorene.
+
+d.
+Koplingen kalles en felles basiskoppling og har stor spenningsforsterkning og stor strømforsterkning.
+Feedback
+The correct answer is: Koplingen kalles en felles kollektorkopling og har liten spenningsforsterkning og stor strømforsterkning.
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvordan er forholdet mellom mottatt bakgrunnsstøy og filterbåndbredden i en mottakers mellomfrekvensforsterker?
+
+Select one:
+
+a.
+Bakgrunnsstøyen øker med økende båndbredde.
+
+b.
+Bakgrunnsstøyen er minst midt i passbåndet.
+
+c.
+Bakgrunnsstøyen er konstant uansett båndbredde.
+
+d.
+Bakgrunnsstøyen minker med økende båndbredde.
+Feedback
+The correct answer is: Bakgrunnsstøyen øker med økende båndbredde.
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvordan benevnes elektrisk motstand?
+Select one:
+
+a.
+Watt
+
+b.
+Ampere
+
+c.
+Ohm
+
+d.
+Volt
+Feedback
+The correct answer is: Ohm
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+De fleste radioamatørtransceivere er utstyrt med enten digitale eller analoge MF-filtere i mottakeren. Du lytter på et svakt telegrafisignal med et filter som har 2,4kHz båndbredde. Signalet er ikke forstyrret verken av QRM eller QRN. Det viser seg at signalet får bedre lesbarhet ved å redusere filterbåndbredden til 400Hz. Hva er årsaken til dette?
+Select one:
+
+a.
+Reduksjon av filterbåndbredden gir bedre frekvensstabilitet på lokaloscillatoren. Bedre stabilitet på lokaloscillatoren gir bedre lesbarhet av telegrafisignaler.
+
+b.
+Redusering av filterbåndbredde resulterer samtidig i økt forsterkning i MF-trinnet. Signalet blir derfor oppfattet som sterkere.
+
+c.
+Såkalt nøkkelklikk på telegrafi vil gi sidebåndsstøy på signalet. Reduksjon av filterbåndbredden vil fjerne denne støyen fra passbåndet og vil gi bedre lesbarhet.
+
+d.
+Ved å redusere filterbåndbredden reduseres også den støyen som mottakeren mottar. Forholdet mellom signal og støy blir derfor bedre.
+Feedback
+The correct answer is: Ved å redusere filterbåndbredden reduseres også den støyen som mottakeren mottar. Forholdet mellom signal og støy blir derfor bedre.
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvordan kan elektrisk energi benevnes ?
+Select one:
+
+a.
+Watt eller W
+
+b.
+Kilovoltampere eller kVA
+
+c.
+Amperetimer eller Ah
+
+d.
+Watt-timer eller Wh
+Feedback
+The correct answer is: Watt-timer eller Wh
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva er vanlig benevnelse for elektrisk feltstyrke?
+Select one:
+
+a.
+Volt/meter (V/m)
+
+b.
+dBW
+
+c.
+Ampere/meter (A/m)
+
+d.
+dBm
+Feedback
+The correct answer is: Volt/meter (V/m)
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En transistor (bipolar) har tre tilkoblinger. Hva kalles disse ?
+Select one:
+
+a.
+Emitter, kollektor og anode
+
+b.
+Kollektor, basis og emitter
+
+c.
+Basis diode og katode
+
+d.
+Basis, katode og emitter
+Feedback
+The correct answer is: Kollektor, basis og emitter
+Question 15
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Primærsiden av en transformator blir tilkoblet lysnettet med en spenning på 230 Volt AC. Sekundærsiden av transformatoren er tilkoblet en ukjent motstand. Spenningen på sekundærsiden og dermed over motstanden er 46 Volt. Strømmen igjennom motstanden er 1 Ampere.Hvor stor strøm går det på primærsiden av transformatoren?
+Select one:
+
+a.
+2,4 Ampere
+
+b.
+1,2 Ampere
+
+c.
+1,0 Ampere
+
+d.
+0,2 Ampere
+Feedback
+The correct answer is: 0,2 Ampere
+Question 16
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+I radioutstyr brukes det flere forskjellige typer oscillatorer. Hva er den viktigste årsaken til at en oscillator oscillerer?
+Select one:
+
+a.
+Tilbakekopling (Feedback)
+
+b.
+AFC (Frekvenskontroll)
+
+c.
+AGC (Forsterkningskontroll)
+
+d.
+Foldback
+Feedback
+The correct answer is: Tilbakekopling (Feedback)
+Question 17
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva slags komponent leder strøm når den forspennes i sperreretning og spenningen over den viser seg å være lik den spenningen som står utenpå komponenten?
+Select one:
+
+a.
+En kapasitansdiode
+
+b.
+En triac
+
+c.
+En lysdiode
+
+d.
+En zenerdiode
+Feedback
+The correct answer is: En zenerdiode
+Question 18
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En parallellresonanskrets bestående av en kondensator og en spole kan brukes som et båndpassfilter. Hva bestemmer frekvensen på et slikt filter?
+Select one:
+
+a.
+Både kondensatorens kapasitet og spolens induktivitet er avgjørende for resonansfrekvensen.
+
+b.
+På lave frekvenser bestemmes frekvensen av spolens induktivitet, og på høye frekvenser bestemmes frekvensen av kondensatorens kapasitet.
+
+c.
+Kun kondensatorens kapasitet. Spolens induktivitet har ingen innvirkning på resonansfrekvensen.
+
+d.
+Kun spolens induktivitet. Kondensatorens kapasitet har ingen innvirkning på resonansfrekvensen.
+Feedback
+The correct answer is: Både kondensatorens kapasitet og spolens induktivitet er avgjørende for resonansfrekvensen.
+Question 19
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva er forskjellen mellom en enkel og en dobbel superheterodyn mottaker?
+Select one:
+
+a.
+Enkel superheterodyne mottaker er det samme som de gamle krystallapparatene. I dag brukes kun dobbel superheterodyn mottakere.
+
+b.
+Enkel superheterodyne mottaker har kun en mellomfrekvensforsterker. Dobbel superheterodyne mottaker har to eller flere mellomfrekvensforsterkere.
+
+c.
+Dobbel superheterodyne mottaker har flere blandetrinn for å lage lokaloscillatorsignalet
+
+d.
+Dobbel superheterodyne mottaker har to HF inngangstrinn for hurtig å kunne skifte mellom flere frekvenser.
+Feedback
+The correct answer is: Enkel superheterodyne mottaker har kun en mellomfrekvensforsterker. Dobbel superheterodyne mottaker har to eller flere mellomfrekvensforsterkere.
+Question 20
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Finnes det krav til uønsket utstråling utenfor amatørbåndene for bruk av hjemmebygd radioamatørutstyr?
+Select one:
+
+a.
+Kravene til uønsket utstråling fra hjemmebygde sendere er gitt i IARU sine båndplaner.
+
+b.
+Kravene til uønsket utstråling fra hjemmebygde sendere er gitt i ”Forskrift om radioamatørlisens”.
+
+c.
+Det er ikke lenger lov å bygge egen sender, og derfor finnes det ikke lenger slike krav.
+
+d.
+Slike krav har i praksis ingen betydning fordi sendereffektene som radioamatørene bruker er lav.
+Feedback
+The correct answer is: Kravene til uønsket utstråling fra hjemmebygde sendere er gitt i ”Forskrift om radioamatørlisens”.
+Question 21
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva blir stående-bølgeforhold (VSWR eller SWR) på mateledningen dersom du benytter en coaxkabel med karakteristisk impedans på 50 ohm og antennen har en fødeimpedans på 20 ohm?
+Select one:
+
+a.
+2,5 eller 1:2,5
+
+b.
+1,4 eller 1:1,4
+
+c.
+0,4 eller 1:0,4
+
+d.
+1,0 eller 1:1
+Feedback
+The correct answer is: 2,5 eller 1:2,5
+Question 22
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Har du lov til å sende når frekvensinnstillingen på transceiveren er 1 kHz lavere enn øvre båndgrense på 80 meterbåndet? Vi forutsetter at du bruker telefoni, båndbredde ca 2,4 kHz og LSB. Frekvensinnstillingen viser frekvensen til den undertrykte bærebølgen .
+Select one:
+
+a.
+Uansett om du bruker LSB eller USB så vil senderens frekvensavlesning være midt i passbåndet. Deler av passbåndet vil i dette tilfelle falle utenfor båndgrensen og en slik sending er derfor ulovlig.
+
+b.
+I og med at du bruker LSB så vil passbåndet til senderen komme innenfor båndgrensen. Det er tillat å sende.
+
+c.
+Det er kun tillatt å sende på denne delen av 80 meterbåndet hvis motstasjonen befinner seg utenfor Europa. Denne delen av båndet er avsatt til langdistansekontakter.
+Feedback
+The correct answer is: I og med at du bruker LSB så vil passbåndet til senderen komme innenfor båndgrensen. Det er tillat å sende.
+Question 23
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En nettransformator har en primærvikling som tilkoples 220Volt vekselstrøm. Den har to sekundærviklinger. Den ene sekundærviklingen er merket 24 Volt og den andre er merket 18 Volt. Du har beregnet at ved å kople begge viklingene i serie vil du kunne få en spenning på 42 Volt over begge viklingene. Det viser seg at det kun er 6 Volt over viklingene. Kan du ha beregnet feil eller har du muligens koplet feil? Hva er sannsynligvis feil?
+Select one:
+
+a.
+Du har koplet riktig og spenningen blir 42 Volt. Det er sannsynligvis feil på måleinstrumentet.
+
+b.
+Det er forskjellig tverrsnitt på koppertrådene som er brukt i de to sekundærviklingene. Derfor blir det ikke riktig å summere de to spenningene.
+
+c.
+Du har koplet viklingene i motfase slik at du ikke får summen men differansen av spenningene av de to sekundærviklingene.
+
+d.
+Du har gjort en beregningsfeil. Det er ikke mulig å få summen av spenningene ved å kople sammen to transformatorviklinger i serie.
+Feedback
+The correct answer is: Du har koplet viklingene i motfase slik at du ikke får summen men differansen av spenningene av de to sekundærviklingene.
+Question 24
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva kjennetegner en sender med et utgangstrinn i klasse C?
+Select one:
+
+a.
+En klasse C forsterker er ulineær og kan ikke brukes til FM.
+
+b.
+En forsterker i klasse C er ulineær og kan ikke brukes til telegrafi.
+
+c.
+En klasse C forsterker er ulineær og kan brukes både til SSB og FM.
+
+d.
+En klasse C forsterker kan ikke brukes for radiofrekvenser. I radioamatørutstyr brukes slike forsterkertrinn kun i lavfrekvenstrinnene i mottakere.
+
+e.
+En klasse C forsterker er ulineær og kan brukes både til telegrafi og FM
+Feedback
+The correct answer is: En klasse C forsterker er ulineær og kan brukes både til telegrafi og FM
+Question 25
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Ved hvilken frekvens vil en kvartbølge antenne med lengde 66 cm ha sin resonansfrekvens? Korreksjonsfaktoren k settes til 0,95. (Bruk svaralternativet som er nærmest det du mener er riktig)
+Select one:
+
+a.
+145 MHz
+
+b.
+432 MHz
+
+c.
+51 MHz
+
+d.
+108 MHz
+Feedback
+The correct answer is: 108 MHz
+Question 26
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+En parallellkobling av en motstand og en ukjent komponent tilkobles 10 Volt DC. I motstanden går det 0,1 Ampere uansett om vi endrer strømretningen. I hele kretsen omsettes det en effekt på 1Watt. Hva forteller dette om den ukjente komponenten?
+Select one:
+
+a.
+) I den ukjente komponenten ser det ikke ut til å gå noen strøm. Den ukjente komponenten kan være defekt, eller det kan være en kondensator.
+
+b.
+) I den ukjente komponenten går det 0,2 Ampere. Den ukjente komponenten kan derfor være en motstand.
+
+c.
+I motstanden går det halvparten så stor strøm som i den ukjente komponenten. Den ukjente komponenten kan derfor være en spole.
+
+d.
+) I motstanden går det dobbelt så stor strøm som i den ukjente komponenten. Den ukjente komponenten kan derfor være en diode.
+Feedback
+The correct answer is: ) I den ukjente komponenten ser det ikke ut til å gå noen strøm. Den ukjente komponenten kan være defekt, eller det kan være en kondensator.
+Question 27
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hvilken elektrisk egenskap er den viktigste ved en spole?
+Select one:
+
+a.
+Aktiv
+
+b.
+Resistiv
+
+c.
+Induktiv
+
+d.
+Kapasitiv
+Feedback
+The correct answer is: Induktiv
+Question 28
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hva er et notch filter?
+Select one:
+
+a.
+Notch-filter brukes på telegrafi for å fjerne nøkkelklikk.
+
+b.
+Notch-filter brukes i mottakeren for å fjerne et smalt frekvensområde i passbåndet. Det kan i praksis brukes til å fjerne forstyrrende pipetoner.
+
+c.
+Notch filter er navnet på tilpassningsleddet mellom siste transistor i senderen og antennetilkoplingen. På en sender med radiorør kalles dette tilpassningsleddet for PI-filter.
+
+d.
+Notch-filter brukes på sendere for å tilpasse talebåndet til den båndbredden som senderen bruker.
+Feedback
+The correct answer is: Notch-filter brukes i mottakeren for å fjerne et smalt frekvensområde i passbåndet. Det kan i praksis brukes til å fjerne forstyrrende pipetoner.
