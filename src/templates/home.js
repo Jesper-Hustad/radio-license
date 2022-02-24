@@ -1,6 +1,6 @@
 import * as React from "react"
 import Question from "../templates/question"
-import Nav from "../templates/nav"
+// import Nav from "../templates/nav"
 import Footer from "../templates/footer"
 import { Stack, Text, Button, background, Image, Link } from '@chakra-ui/react';
 import Logo from "../images/logo.svg"
@@ -41,7 +41,7 @@ React.useEffect(() => {
     
 return(
     <>
-    <Nav onClick={()=>alert("hello")} />
+    {/* <Nav onClick={()=>alert("hello")} /> */}
     {part == 0 &&
       <>
         <Stack spacing={4} direction='column' align='center' style={{minHeight:"400px", padding: "15px"}} >

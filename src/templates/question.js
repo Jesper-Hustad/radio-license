@@ -69,21 +69,21 @@ export default function Question(props){
 
     return (
         <div style={box}>
-        <Stack p="4" boxShadow="lg" m="4" borderRadius="xl" style={{    backgroundColor: '#f2fcff',}}>
+        <Stack spacing={5} p="4" boxShadow="lg" m="4" borderRadius="xl" style={{    backgroundColor: '#f2fcff',}}>
 
             <Text fontWeight="bold" fontSize='md'>Spørsmål {position + 1}/{max}</Text>
             
             {/* QUESTION */}
-            <Stack direction="row" alignItems="center" style={{minHeight:"190px"}}>
+            <Stack direction="row" alignItems="center">
                 <Text fontSize='sm'>{questions[position].question}</Text>
             </Stack>
 
 
             {/* ANSWERS */}
-            <Stack spacing={4} direction='column' align='center' style={{minHeight:"400px"}} >
+            <Stack spacing={4} direction='column' align='center' >
                 { answered[position] == -1 &&
                 questions[position].answers.map((a,i) => (
-                    <Text fontSize="sm" style={{...option, ...((selected != i) ? defaultOpt : selectedOpt)}} onClick={() => setSelected(i)}>{a}</Text>
+                    <Text fontSize="sm" style={{...option, ...((selected != i) ? defaultOpt : selectedOpt)}} onClick={() => setAnswered(editArray(position, i, answered))}>{a}</Text>
                 ))}
 
 
@@ -100,15 +100,11 @@ export default function Question(props){
             <Stack direction={{ base: 'column', md: 'row' }} justifyContent="space-between" style={{width : "100%"}}>
                 <Stack spacing={3} direction='row' align='center' style={{width : "100%"}}>
                     
-                    <Button onClick={() => position > 0 ? setPosition(position-1) : null} leftIcon={<ArrowBackIcon />} colorScheme='teal' style={{width : "40%"}} >
+                    <Button onClick={() => position > 0 ? setPosition(position-1) : null} leftIcon={<ArrowBackIcon />} colorScheme='teal' style={{width : "100%"}} >
                         <Text fontWeight="bold" >Forrige</Text>
                     </Button>
 
-                    <Button onClick={() => setAnswered(editArray(position, selected, answered))} colorScheme='teal' style={{width : "50%"}}>
-                        <Text fontWeight="bold">Sjekk svar</Text>
-                    </Button>
-
-                    <Button onClick={() => position + 1 < max ? setPosition(position+1) : null} rightIcon={<ArrowForwardIcon />} colorScheme='teal' style={{width : "40%"}}>
+                    <Button onClick={() => position + 1 < max ? setPosition(position+1) : null} rightIcon={<ArrowForwardIcon />} colorScheme='teal' style={{width : "100%"}}>
                         <Text fontWeight="bold">Neste</Text>
                     </Button>
 
@@ -117,6 +113,7 @@ export default function Question(props){
 
 
         </Stack>
+        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
         </div>
     )
 }
