@@ -29,14 +29,17 @@ export default function HTML(props) {
 
       {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-5PEETTTQKH"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments)}
-        gtag('js', new Date());
+      <script
+        dangerouslySetInnerHTML={{
+          __html: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments)}
+          gtag('js', new Date());
 
-        gtag('config', 'G-5PEETTTQKH');
-      </script>
-
+          gtag('config', 'G-5PEETTTQKH');
+        `,
+        }}
+      />
 
     </html>
   )
