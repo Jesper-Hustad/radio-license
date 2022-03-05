@@ -1,9 +1,9 @@
 ﻿# RadioLisens.no
-A website to prepare for the Norwegian amateur radio license exam.  
+A website to prepare for the Norwegian <img src="https://i.imgur.com/hQYALv8.png" width="23"/> amateur radio license exam.  
 Contains real questions from previous exams.  
-Feel free to 🌟**star**🌟 the project if you like it.  
-
 With the goal to be the best and most effective resource available.
+
+Feel free to 🌟**star**🌟 the project if you like it.  
 
 Click to try it yourself 👇
 
