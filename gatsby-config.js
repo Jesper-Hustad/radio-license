@@ -33,11 +33,11 @@ module.exports = {
           },
           {
             resolve: `gatsby-plugin-offline`,
-            options: {
-              workboxConfig: {
-                 globPatterns: ['*.html','**src/images/icon.png*']
-              }
-           }
+          //   options: {
+          //     workboxConfig: {
+          //        globPatterns: ['*.html','**src/images/icon.png*']
+          //     }
+          //  }
           },
     ]
 }
