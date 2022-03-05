@@ -6,7 +6,7 @@ With the goal to be the best and most effective resource available.
 
 Click to try it yourself 👇
 
-[<img src="site-demo.png" width="350"/>](http://radiolisens.no/)
+[<img src="site-demo.png" width="450"/>](http://radiolisens.no/)
 
 
 
