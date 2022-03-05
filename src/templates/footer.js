@@ -65,7 +65,7 @@ const stick = {
           {/* <img src={Logo} alt="" style={{height:"50px"}}/> */}
           <Stack direction={'row'} spacing={6}>
             {/* <Link href={'/'}>Hjem</Link> */}
-            <Link href={'https://github.com/Jesper-Hustad/radio-lisens/issues'}>GitHub</Link>
+            <Link href={'https://github.com/Jesper-Hustad/radio-lisens/'}>GitHub</Link>
             {/* <Link href={'#'}>Blog</Link> */}
             <Tooltip label='radiolisens@jesperhustad.com'>
             <Link href={'mailto: radiolisens@jesperhustad.com'}>Kontakt</Link>
