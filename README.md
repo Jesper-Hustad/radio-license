@@ -6,7 +6,7 @@ With the goal to be the best and most effective resource available.
 
 Click to try it yourself 👇
 
-[<img src="site-demo.png" width="450"/>](http://radiolisens.no/)
+[<img src="src/images/site-demo.png" width="450"/>](http://radiolisens.no/)
 
 
 
@@ -18,7 +18,7 @@ Visit [RadioLisens.no](http://radiolisens.no/) and do the following:
 **IOS:** Tap the "Share" button, scroll down and tap "Add to Home Screen"  
 **Android:** Tap the three dots menu, tap "Add to Home Screen" 
 
-![](app-preview.png)
+![](src/images/app-preview.png)
 
 ## Is something wrong?
 If you discovered a bug or something isn't working correctly add an issue here on GitHub and it will be looked at. If you are new to GitHub here are [instructions](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for adding issues.  
