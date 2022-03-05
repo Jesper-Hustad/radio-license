@@ -3,7 +3,7 @@ import Question from "../templates/question"
 // import Nav from "../templates/nav"
 import Footer from "../templates/footer"
 import { Stack, Text, Button, background, Image, Link } from '@chakra-ui/react';
-import Logo from "../images/logo.svg"
+import Logo from "../images/logo-circle.png"
 
 import questionJSON from "../../exams/questions.json"
 

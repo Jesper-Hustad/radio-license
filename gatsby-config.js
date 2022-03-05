@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: `https://www.yourdomain.tld`,
+        siteUrl: `https://www.radiolisens.no`,
     },
     plugins: [
         {
@@ -17,6 +17,27 @@ module.exports = {
                */
               isUsingColorMode: true,
             },
+          },
+          {
+            resolve: `gatsby-plugin-manifest`,
+            options: {
+              name: `Radio Lisens`,
+              short_name: `RadioLisens`,
+              start_url: `/`,
+              background_color: `#38BA84`,
+              theme_color: `#a2466c`,
+              display: `standalone`,
+              icon: `src/images/icon.png`, // This path is relative to the root of the site.
+              cache_busting_mode: 'none',
+            },
+          },
+          {
+            resolve: `gatsby-plugin-offline`,
+            options: {
+              workboxConfig: {
+                 globPatterns: ['src/images/icon.png']
+              }
+           }
           },
     ]
 }
